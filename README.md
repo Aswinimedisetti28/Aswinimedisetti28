@@ -1,895 +1,958 @@
-# MASTER PROMPT: BUILD AN ELITE, WORLD-CLASS GITHUB DEVELOPER PROFILE — A TO Z
-
-Act as a world-class GitHub profile architect, senior full-stack software engineer, open-source strategist, UI/UX designer, motion graphics designer, developer branding specialist, and technical content architect.
-
-Your mission is to build an exceptionally professional, visually distinctive, premium GitHub developer identity for a female aspiring Full-Stack MERN Stack Developer who is continuously learning, building projects, exploring technologies, and expanding her engineering capabilities.
-
-This must NOT look like a generic AI-generated developer profile, an ordinary student profile, or a copied GitHub README template.
-
-Create an original, recognizable, sophisticated developer identity.
-
-## 1. CORE IDENTITY
-
-Developer identity:
-- Role: Aspiring Full-Stack MERN Stack Developer
-- Career stage: Fresher / Continuously Learning
-- Primary focus: Full-Stack Web Development
-- Secondary interests: Software Engineering, Data Analytics, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, and Open Source.
-- Profile type: Female Software Developer
-- Personality: Professional, ambitious, creative, technical, disciplined, curious, and project-oriented.
-
-Use editable profile information.
-
-Do not invent:
-- Professional experience
-- Company employment
-- Certifications
-- Education details
-- GitHub statistics
-- Project completion claims
-- Client testimonials
-- Open-source contributions
-- Technical expertise that has not been demonstrated.
-
-Everything must remain truthful and editable.
-
-## 2. VISUAL DESIGN SYSTEM
-
-Create a premium visual identity.
-
-Design direction:
-- Sophisticated dark developer aesthetic.
-- Deep midnight background.
-- Rich navy and electric blue accents.
-- Subtle cyan highlights.
-- Soft violet secondary accents.
-- Professional typography.
-- Excellent spacing and alignment.
-- Clean technical layouts.
-- High-quality graphical elements.
-- Carefully designed visual hierarchy.
-
-Avoid:
-- Generic AI website aesthetics.
-- Excessive gradients.
-- Random glowing effects.
-- Unnecessary emojis.
-- Childish designs.
-- Excessive badges.
-- Cluttered layouts.
-- Fake statistics.
-- Repetitive skill icons.
-
-The design must communicate real software engineering professionalism.
-
-## 3. MY PERSONAL DOT-MATRIX PORTRAIT
-
-Use my uploaded photograph ONLY as a reference for creating a graphical portrait.
-
-IMPORTANT:
-Do not display my original photograph.
-Do not insert my photograph directly into the README.
-Do not create a conventional photographic profile image.
-
-Instead, transform my recognizable facial appearance into an artistic DOT-MATRIX / PARTICLE PORTRAIT.
-
-Requirements:
-- Thousands of tiny circular dots.
-- Carefully controlled dot density.
-- Facial features formed through particles.
-- Hair silhouette represented through dots.
-- Eyes, nose, lips, and face contour represented through dot patterns.
-- Elegant monochrome or blue-cyan particle palette.
-- Dark background.
-- Sophisticated digital-art appearance.
-- Recognizable facial structure.
-- No realistic photograph texture.
-- No cartoon transformation.
-- No unrelated person's face.
-
-Create a high-quality SVG or GIF asset if technically feasible.
-
-The portrait should feel like a digital identity made from thousands of individual particles.
-
-If GitHub SVG rendering limitations prevent an effect, create a compatible static SVG version.
-
-## 4. GITHUB PROFILE README ARCHITECTURE
-
-Create a complete, carefully structured GitHub profile README.md.
-
-Include the following sections.
-
-### A. Premium Introduction Banner
-- Original developer banner.
-- Developer identity.
-- Main development specialization.
-- Subtle animated or SVG graphical elements where supported.
-- Professional introduction.
-
-### B. About Me
-- Who I am.
-- What I am learning.
-- What I am building.
-- My development interests.
-- My engineering philosophy.
-- My current goals.
-- What I want to contribute to the developer community.
-
-### C. Developer Mission
-Create a meaningful developer mission statement.
-
-### D. Current Focus
-Display editable current learning and development priorities.
-
-### E. Complete Technical Skills Encyclopedia
-
-Build a comprehensive, expandable-in-source, categorized technical skill directory.
-
-Do not limit the profile to MERN alone.
-
-Include these technology categories:
-
-1. Programming Languages
-   - C
-   - C++
-   - Java
-   - Python
-   - JavaScript
-   - TypeScript
-   - PHP
-   - C#
-   - Go
-   - Rust
-   - Kotlin
-   - Swift
-   - Ruby
-   - Dart
-   - SQL
-   - Bash
-   - PowerShell
-
-2. Frontend Development
-   - HTML5
-   - CSS3
-   - JavaScript
-   - TypeScript
-   - React.js
-   - Next.js
-   - Angular
-   - Vue.js
-   - Svelte
-   - Bootstrap
-   - Tailwind CSS
-   - Material UI
-   - Sass
-   - Responsive Design
-   - Accessibility
-   - Web Performance
-   - Web Animations
-   - Three.js
-   - WebGL
-   - GSAP
-
-3. Backend Development
-   - Node.js
-   - Express.js
-   - NestJS
-   - Django
-   - Flask
-   - FastAPI
-   - Spring Boot
-   - Laravel
-   - ASP.NET Core
-   - REST APIs
-   - GraphQL
-   - WebSockets
-   - Authentication
-   - Authorization
-   - API Security
-   - Microservices
-
-4. MERN Stack
-   - MongoDB
-   - Express.js
-   - React.js
-   - Node.js
-   - Mongoose
-   - JWT
-   - REST API Integration
-   - Full-Stack Architecture
-
-5. Databases
-   - MySQL
-   - PostgreSQL
-   - MongoDB
-   - SQLite
-   - Redis
-   - Oracle Database
-   - SQL Server
-   - Database Design
-   - Database Normalization
-   - Indexing
-   - Query Optimization
-   - Transactions
-   - Database Security
-
-6. Data Structures and Algorithms
-   - Arrays
-   - Strings
-   - Linked Lists
-   - Stacks
-   - Queues
-   - Trees
-   - Graphs
-   - Hash Tables
-   - Heaps
-   - Searching
-   - Sorting
-   - Recursion
-   - Dynamic Programming
-   - Greedy Algorithms
-   - Backtracking
-   - Complexity Analysis
-
-7. Software Engineering
-   - Object-Oriented Programming
-   - Functional Programming
-   - Design Patterns
-   - SOLID Principles
-   - Clean Code
-   - Software Architecture
-   - System Design
-   - Low-Level Design
-   - High-Level Design
-   - Design Documentation
-   - Agile
-   - Scrum
-   - SDLC
-   - Testing Methodologies
-
-8. Testing and Quality Assurance
-   - Unit Testing
-   - Integration Testing
-   - End-to-End Testing
-   - Jest
-   - Vitest
-   - React Testing Library
-   - Cypress
-   - Playwright
-   - Postman
-   - API Testing
-   - Performance Testing
-   - Security Testing
-
-9. Version Control and Collaboration
-   - Git
-   - GitHub
-   - GitLab
-   - Bitbucket
-   - Branching
-   - Merging
-   - Pull Requests
-   - Code Reviews
-   - Issue Tracking
-   - Open Source Contributions
-   - GitHub Actions
-
-10. DevOps and CI/CD
-    - Linux
-    - Docker
-    - Kubernetes
-    - Jenkins
-    - GitHub Actions
-    - GitLab CI/CD
-    - Terraform
-    - Ansible
-    - Nginx
-    - Monitoring
-    - Logging
-    - Deployment Automation
-
-11. Cloud Computing
-    - AWS
-    - Microsoft Azure
-    - Google Cloud Platform
-    - Cloud Storage
-    - Virtual Machines
-    - Serverless Computing
-    - Cloud Networking
-    - IAM
-    - Cloud Security
-    - Cloud Deployment
-
-12. Artificial Intelligence
-    - Artificial Intelligence
-    - Machine Learning
-    - Deep Learning
-    - Natural Language Processing
-    - Computer Vision
-    - Generative AI
-    - Large Language Models
-    - Prompt Engineering
-    - AI Agents
-    - RAG
-    - Vector Databases
-    - Model Evaluation
-
-13. Data Science and Analytics
-    - Python
-    - NumPy
-    - Pandas
-    - Matplotlib
-    - Statistics
-    - Probability
-    - Data Cleaning
-    - Exploratory Data Analysis
-    - Feature Engineering
-    - Data Visualization
-    - Power BI
-    - Advanced Excel
-    - Tableau
-    - SQL Analytics
-
-14. Python Ecosystem
-    - Core Python
-    - OOP
-    - NumPy
-    - Pandas
-    - Matplotlib
-    - Scikit-learn
-    - TensorFlow
-    - PyTorch
-    - Django
-    - Flask
-    - FastAPI
-    - Automation
-    - Scripting
-
-15. Java Ecosystem
-    - Core Java
-    - OOP
-    - Collections Framework
-    - Multithreading
-    - JDBC
-    - Servlets
-    - JSP
-    - Hibernate
-    - Spring
-    - Spring Boot
-    - Maven
-    - Gradle
-    - JUnit
-
-16. Mobile Development
-    - Android
-    - Kotlin
-    - Java Android
-    - Swift
-    - SwiftUI
-    - Flutter
-    - React Native
-    - Mobile UI
-    - Mobile APIs
-
-17. Cybersecurity
-    - Networking Fundamentals
-    - HTTP/HTTPS
-    - OWASP Top 10
-    - Secure Coding
-    - Authentication Security
-    - Authorization
-    - Encryption Fundamentals
-    - Application Security
-    - Vulnerability Assessment
-    - Security Testing
-
-18. Networking and Internet Technologies
-    - TCP/IP
-    - DNS
-    - HTTP
-    - HTTPS
-    - SSL/TLS
-    - REST
-    - WebSockets
-    - Load Balancing
-    - Proxy Servers
-    - CDN
-
-19. UI/UX and Design Tools
-    - Figma
-    - Adobe Photoshop
-    - Adobe Illustrator
-    - Wireframing
-    - Prototyping
-    - Design Systems
-    - Accessibility
-    - Responsive UI
-    - User Research
-
-20. Developer Tools
-    - VS Code
-    - IntelliJ IDEA
-    - Eclipse
-    - WebStorm
-    - GitHub Desktop
-    - MySQL Workbench
-    - MongoDB Compass
-    - Postman
-    - Swagger
-    - Chrome DevTools
-    - npm
-    - pnpm
-    - Yarn
-    - Vite
-
-21. Build and Package Tools
-    - Webpack
-    - Vite
-    - Babel
-    - ESLint
-    - Prettier
-    - npm
-    - Maven
-    - Gradle
-
-22. Additional Engineering Domains
-    - Blockchain Fundamentals
-    - Web3
-    - Game Development
-    - Unity
-    - Unreal Engine
-    - IoT
-    - Embedded Systems
-    - Robotics
-    - Distributed Systems
-    - High-Performance Computing
-
-IMPORTANT SKILL DISPLAY RULE:
-
-Every skill must support editable learning status:
-
-- Learning
-- Practicing
-- Building Projects
-- Intermediate
-- Advanced
-- Experienced
-
-Do not mark every technology as mastered.
-
-Create a central skills configuration section so I can easily update technologies as I learn them.
-
-Avoid making the README excessively long. Use visually organized categories, compact icon groups, and separate detailed skill documentation when necessary.
-
-## 5. PROJECT SHOWCASE — LARGE PROJECT COLLECTION
-
-Create a professional project portfolio system.
-
-Include project categories:
-
-1. MERN Stack Projects
-2. React Projects
-3. JavaScript Projects
-4. HTML/CSS Projects
-5. Node.js Projects
-6. Express.js Projects
-7. MongoDB Projects
-8. MySQL Projects
-9. Python Projects
-10. Java Projects
-11. Full-Stack Applications
-12. REST API Projects
-13. Authentication Projects
-14. E-Commerce Projects
-15. Admin Dashboard Projects
-16. Data Analytics Projects
-17. Machine Learning Projects
-18. AI/LLM Projects
-19. Cloud Projects
-20. DevOps Projects
-21. Three.js / 3D Projects
-22. Automation Projects
-23. Open Source Projects
-24. Real-World Case Studies
-25. Mini Projects
-26. Major Projects
-27. Capstone Projects
-
-Create a reusable project card design.
-
-Each project must support:
-
-- Project title
-- Custom-generated thumbnail
-- Project description
-- Problem statement
-- Technologies used
-- Key features
-- Architecture
-- Database
-- GitHub repository URL
-- Live demo URL
-- Screenshots
-- Documentation
-- Project status
-- Development timeline
-- Future improvements
-
-### AUTOMATIC THUMBNAIL CREATION
-
-Design original project thumbnails for every project.
-
-Do not use random stock images.
-
-Create unique visual concepts based on each project's functionality.
-
-Examples:
-- E-commerce: premium online shopping interface.
-- Bookstore: professional digital library visual.
-- Authentication: security-focused login architecture.
-- Dashboard: advanced analytics interface.
-- AI application: neural network visualization.
-- Machine learning: data prediction visualization.
-- Cloud application: cloud architecture diagram.
-- Three.js: sophisticated 3D visual.
-- API project: endpoint and architecture illustration.
-- Database project: structured data visualization.
-
-Create a reusable thumbnail design system.
-
-All project cards should initially support placeholder repository links.
-
-Never invent real project URLs.
-
-I will add my actual GitHub and deployment links later.
-
-Do not falsely present planned projects as completed projects.
-
-## 6. PROJECT DETAIL TEMPLATE
-
-Create a reusable README template for every project.
-
-Structure:
-
-- Project Overview
-- Problem Statement
-- Objectives
-- Technologies
-- Features
-- Architecture
-- Folder Structure
-- Installation
-- Environment Configuration
-- Database Schema
+# 👩🏻‍💻 ASWINI MEDISETTI | SOFTWARE DEVELOPER
+
+<!-- ====================================================== -->
+<!-- PERSONAL BRANDING: Add your banner to assets/banner.png -->
+<!-- ====================================================== -->
+
+<!-- <p align="center"><img src="assets/banner.png" width="100%" alt="Aswini Developer Banner"/></p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+MERN+Developer;Building+Real-World+Software+Projects;Exploring+AI%2C+Cloud+%26+Data+Engineering;Learning.+Building.+Improving.+Contributing." alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <b>FULL-STACK DEVELOPER</b> · <b>PROBLEM SOLVER</b> · <b>CONTINUOUS LEARNER</b> · <b>PROJECT BUILDER</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aswinimedisetti28">
+    <img src="https://img.shields.io/badge/GitHub-Aswini%20Medisetti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approach-Learn%20%7C%20Build%20%7C%20Improve-8B5CF6?style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ ABOUT ME
+
+Hello! I'm **Aswini Medisetti**, an aspiring Full-Stack Developer passionate about technology, software engineering, and building practical digital solutions.
+
+I enjoy exploring how applications work, understanding systems from the ground up, experimenting with different programming languages, and turning ideas into functional projects.
+
+My primary development direction is the **MERN Stack**, while continuously expanding my knowledge across programming, databases, AI, data analytics, cloud computing, and DevOps.
+
+- 💻 Learning and developing full-stack applications.
+- 🚀 Exploring different programming languages and frameworks.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🗄️ Understanding database architecture and management.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- ☁️ Learning cloud platforms and deployment.
+- 🛠️ Building practical projects to strengthen engineering skills.
+- 🌱 Continuously improving through experimentation and practice.
+
+## 🎯 MY DEVELOPER MISSION
+
+> To continuously learn, build, experiment, and create meaningful software solutions while developing strong engineering fundamentals and contributing to the technology community.
+
+## 🔥 CURRENT FOCUS
+
+| Domain | Current Direction |
+|---|---|
+| Full-Stack Development | MERN Stack |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express.js |
+| Databases | MongoDB, MySQL, SQL |
+| Programming | Java, Python, JavaScript |
+| Computer Science | DSA, DBMS, OS, Networks |
+| Data Analytics | Excel, SQL, Power BI, Python |
+| AI & ML | Fundamentals and practical projects |
+| Cloud | AWS, Azure |
+| DevOps | Git, GitHub, Docker, CI/CD |
+
+---
+
+# 🧰 TECH STACK & SKILLS — A TO Z
+
+*This is my technical learning and exploration directory. A listed technology does not automatically mean professional-level proficiency.*
+
+## 01. Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,cs,go,rust,kotlin,swift,ruby,dart,bash,powershell" alt="Programming languages"/>
+</p>
+
+- C and C++
+- Java
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- C#
+- Go
+- Rust
+- Kotlin
+- Swift
+- Ruby
+- Dart
+- SQL
+- Bash and PowerShell
+
+## 02. Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,svelte,bootstrap,tailwind,sass,materialui,threejs" alt="Frontend technologies"/>
+</p>
+
+- HTML5 and Semantic HTML
+- CSS3, Flexbox and Grid
+- Responsive Web Design
+- JavaScript ES6+
+- TypeScript
+- React.js
+- Next.js
+- Angular
+- Vue.js
+- Svelte
+- Bootstrap
+- Tailwind CSS
+- Material UI
+- Sass / SCSS
+- Three.js and WebGL
+- GSAP and Web Animations
+- Accessibility and SEO
+- Frontend Performance Optimization
+- State Management
+- Component Architecture
+
+## 03. Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet" alt="Backend technologies"/>
+</p>
+
+- Node.js
+- Express.js
+- NestJS
+- Python Backend Development
+- Django
+- Flask
+- FastAPI
+- Java Spring Framework
+- Spring Boot
+- PHP Laravel
+- ASP.NET Core
+- REST API Development
+- GraphQL
+- WebSockets
+- Authentication and Authorization
+- Middleware
+- Microservices
+- Backend Security
 - API Documentation
-- Screenshots
-- Testing
-- Security
-- Deployment
-- Performance
-- Challenges
-- Solutions
-- Future Enhancements
-- Contribution Guidelines
-- License
 
-## 7. GITHUB ANALYTICS AND STATISTICS
+## 04. MERN Stack
 
-Create dedicated sections for:
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/>
+</p>
 
-- GitHub Profile Statistics
-- Contribution Graph
-- Contribution Activity
-- Repository Statistics
-- Most Used Languages
-- Streak Statistics
-- Achievement Highlights
-- Open Source Activity
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- Mongoose
+- JWT Authentication
+- REST API Integration
+- CRUD Operations
+- Full-Stack Architecture
+- Role-Based Access Control
+- File Uploads
+- Payment Gateway Integration
+- Production Deployment
 
-Use legitimate GitHub APIs or established GitHub statistics services where appropriate.
+## 05. Databases
 
-Do not generate fake numbers.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" alt="Database technologies"/>
+</p>
 
-Make the sections resilient if external services are unavailable.
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Redis
+- Oracle Database
+- Microsoft SQL Server
+- Firebase / Firestore
+- Database Design
+- ER Diagrams
+- Normalization
+- Indexing
+- Joins and Subqueries
+- Stored Procedures
+- Views and Triggers
+- Transactions
+- Query Optimization
+- Database Security
+- Backup and Recovery
 
-## 8. GITHUB REPOSITORY COLLECTION
+## 06. Data Structures & Algorithms
 
-Create a structured collection for:
+- Arrays and Strings
+- Linked Lists
+- Stacks and Queues
+- Hash Tables
+- Trees and Binary Trees
+- Binary Search Trees
+- Heaps and Priority Queues
+- Graphs
+- Searching Algorithms
+- Sorting Algorithms
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Sliding Window
+- Two Pointers
+- Divide and Conquer
+- Time and Space Complexity
+- Big O Notation
 
-- Featured Repositories
-- Pinned Projects
-- Latest Projects
-- Learning Repositories
-- Practice Repositories
-- Data Structures and Algorithms
-- Technical Notes
-- Coding Challenges
-- Open Source Contributions
-- Experimental Projects
+## 07. Computer Science Fundamentals
 
-All links must be editable.
-
-## 9. TECHNICAL KNOWLEDGE CENTER
-
-Create a section that organizes my continuous learning journey.
-
-Categories:
-
-- Programming Fundamentals
-- Computer Science Fundamentals
+- Computer Architecture
 - Operating Systems
+- Process Management
+- Threads and Concurrency
+- Memory Management
+- File Systems
 - Computer Networks
-- DBMS
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Software Engineering
+- TCP/IP
+- DNS
+- HTTP and HTTPS
+- OSI Model
+- Database Management Systems
+- OOP
+- Functional Programming
+- Compiler Fundamentals
+- Data Representation
+- Software Development Life Cycle
 - System Design
-- Web Development
-- Backend Engineering
-- Frontend Engineering
-- Database Engineering
-- Cloud Computing
-- DevOps
+- Design Patterns
+- SOLID Principles
+- Clean Code
+
+## 08. Software Testing & QA
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium" alt="Testing tools"/>
+</p>
+
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- Jest
+- Vitest
+- React Testing Library
+- Cypress
+- Playwright
+- Selenium
+- Postman
+- API Testing
+- Regression Testing
+- Performance Testing
+- Test Automation
+- Debugging
+
+## 09. Version Control & Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version control"/>
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+- Branching and Merging
+- Pull Requests
+- Code Reviews
+- Merge Conflicts
+- GitHub Issues
+- Repository Management
+- Open Source Contributions
+- GitHub Actions
+
+## 10. DevOps & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,nginx,linux,githubactions" alt="DevOps tools"/>
+</p>
+
+- Linux Administration
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- GitLab CI/CD
+- Terraform
+- Ansible
+- Nginx
+- CI/CD Pipelines
+- Containerization
+- Infrastructure as Code
+- Monitoring
+- Logging
+- Deployment Automation
+
+## 11. Cloud Computing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare" alt="Cloud technologies"/>
+</p>
+
+- Amazon Web Services
+- Microsoft Azure
+- Google Cloud Platform
+- Cloud Storage
+- Virtual Machines
+- Cloud Networking
+- IAM
+- Serverless Computing
+- Cloud Security
+- Load Balancing
+- CDN
+- Cloud Deployment
+- Infrastructure Management
+
+## 12. Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and ML technologies"/>
+</p>
+
 - Artificial Intelligence
 - Machine Learning
-- Data Science
-- Cybersecurity
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Deep Learning
+- Neural Networks
+- Natural Language Processing
+- Computer Vision
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- AI Agents
+- Retrieval-Augmented Generation
+- Vector Databases
+- Model Training
+- Model Evaluation
+- Model Deployment
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
 
-Each category must support links to:
-- Notes
-- Source code
-- Practice problems
-- Projects
-- Documentation
-- Learning progress
+## 13. Data Science & Analytics
 
-## 10. SERVICES AND DEVELOPER CAPABILITIES
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Data technologies"/>
+</p>
 
-Create a dedicated section for future professional services.
+- Statistics
+- Probability
+- Data Collection
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Feature Engineering
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SQL Analytics
+- Advanced Excel
+- Pivot Tables
+- Power Query
+- Power BI
+- Tableau
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
 
-Include editable service categories:
+## 14. Python Ecosystem
 
-- Frontend Web Development
-- Responsive Website Development
-- React Application Development
-- MERN Stack Development
-- Backend API Development
+- Core Python
+- Object-Oriented Python
+- Advanced Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Django
+- Flask
+- FastAPI
+- Automation
+- Web Scraping
+- Data Analysis
+- API Development
+- Testing and Scripting
+
+## 15. Java Ecosystem
+
+- Core Java
+- OOP
+- Collections Framework
+- Exception Handling
+- Generics
+- Multithreading
+- Concurrency
+- JDBC
+- Servlets
+- JSP
+- Hibernate
+- Spring Framework
+- Spring Boot
+- Maven
+- Gradle
+- JUnit
+- Java Application Development
+
+## 16. Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,swift,flutter,react" alt="Mobile development"/>
+</p>
+
+- Android Development
+- Kotlin
+- Java Android
+- Swift
+- SwiftUI
+- Flutter
+- Dart
+- React Native
+- Mobile UI Development
+- Mobile API Integration
+- App Testing
+
+## 17. Cybersecurity
+
+- Networking Fundamentals
+- Secure Coding
+- OWASP Top 10
+- Authentication Security
+- Authorization
+- Encryption Fundamentals
+- Password Security
+- API Security
+- Web Application Security
+- Vulnerability Assessment
+- Security Testing
+- Secure Deployment
+
+## 18. Networking & Internet Technologies
+
+- TCP/IP
+- DNS
+- DHCP
+- HTTP
+- HTTPS
+- SSL/TLS
+- REST
+- WebSockets
+- Webhooks
+- Proxy Servers
+- Reverse Proxy
+- Load Balancing
+- CDN
+- Network Security
+
+## 19. UI/UX & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design tools"/>
+</p>
+
+- Figma
+- Wireframing
+- Prototyping
+- Design Systems
+- Typography
+- Color Theory
+- User Research
+- Responsive UI
+- Accessibility
+- Interface Design
+- User Experience Design
+
+## 20. Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,webstorm,postman,mysql,git,github" alt="Developer tools"/>
+</p>
+
+- Visual Studio Code
+- IntelliJ IDEA
+- Eclipse
+- WebStorm
+- GitHub Desktop
+- MySQL Workbench
+- MongoDB Compass
+- Postman
+- Swagger
+- Chrome DevTools
+- npm
+- pnpm
+- Yarn
+- Vite
+- Webpack
+- Babel
+- ESLint
+- Prettier
+
+## 21. Additional Engineering Domains
+
+- Blockchain Fundamentals
+- Web3
+- Smart Contracts
+- Game Development
+- Unity
+- Unreal Engine
+- IoT
+- Embedded Systems
+- Robotics
+- Distributed Systems
+- High-Performance Computing
+- Software Automation
+
+---
+
+# 🚀 PROJECT UNIVERSE
+
+A continuously expanding collection of practical software projects, experiments, learning implementations, and engineering solutions.
+
+**Project status legend:** Planned · Learning · In Progress · Completed · Deployed
+
+Only mark projects completed after they are actually built.
+
+## ⭐ Featured Projects
+
+| Project | Category | Technologies | Repository / Demo |
+|---|---|---|---|
+| Lumora Bookstore | Full-Stack Bookstore | React, Node, MySQL | [Add Links](#project-links) |
+| Eagle Auth | Authentication System | React, Express, MySQL | [Add Links](#project-links) |
+| Real Estate Platform | Property Management | MERN, Maps | [Add Links](#project-links) |
+| Foodie Restaurant | Restaurant Platform | React, Node, MySQL | [Add Links](#project-links) |
+| AI Employee Predictor | Machine Learning | Python, Pandas, ML | [Add Links](#project-links) |
+| Admin Command Center | Admin Dashboard | React, APIs, Charts | [Add Links](#project-links) |
+
+## 📚 Project Categories
+
+<details>
+<summary><b>01 — HTML & CSS Projects</b></summary>
+
+1. Professional Developer Landing Page
+2. Responsive Portfolio Website
+3. Restaurant Website
+4. Real Estate Landing Page
+5. Fashion Store Website
+6. Education Website
+7. Travel Website
+8. Medical Clinic Website
+9. SaaS Landing Page
+10. Interactive Documentation Website
+
+</details>
+
+<details>
+<summary><b>02 — JavaScript Projects</b></summary>
+
+1. Advanced Calculator
+2. Expense Tracker
+3. Weather Application
+4. Task Management Application
+5. Quiz Platform
+6. Currency Converter
+7. Form Validation System
+8. Interactive Dashboard
+9. Productivity Application
+10. Browser-Based Code Editor
+
+</details>
+
+<details>
+<summary><b>03 — React Projects</b></summary>
+
+1. Personal Portfolio
+2. E-Commerce Frontend
+3. Bookstore Interface
+4. Restaurant Ordering Interface
+5. Real Estate Property Explorer
+6. Admin Dashboard
+7. Learning Management System
+8. Job Portal
+9. Finance Dashboard
+10. Travel Booking Interface
+11. CRM Dashboard
+12. Inventory Management Interface
+
+</details>
+
+<details>
+<summary><b>04 — MERN Full-Stack Projects</b></summary>
+
+1. Full-Stack E-Commerce Platform
+2. Online Bookstore
+3. Real Estate Management System
+4. Multi-Vendor Marketplace
+5. Job Recruitment Platform
+6. Learning Management System
+7. Hospital Management System
+8. Hotel Booking System
+9. Restaurant Management System
+10. Social Networking Platform
+11. Project Management System
+12. CRM Application
+13. Inventory Management System
+14. Online Examination Platform
+15. Event Management Platform
+16. Subscription Management Platform
+
+</details>
+
+<details>
+<summary><b>05 — Backend & API Projects</b></summary>
+
+1. Authentication API
+2. Role-Based Authorization API
+3. E-Commerce API
+4. Payment Integration API
+5. File Management API
+6. Notification Service
+7. Chat Application Backend
+8. Booking API
+9. Inventory API
+10. API Rate Limiter
+11. URL Shortener
+12. Microservices Demo
+
+</details>
+
+<details>
+<summary><b>06 — Database Projects</b></summary>
+
+1. Library Database Management
+2. Hospital Database
+3. HR Payroll Database
+4. Banking Database
+5. E-Commerce Database
+6. School Management Database
+7. Restaurant Database
+8. Inventory Database
+9. Employee Management Database
+10. Advanced SQL Analytics
+
+</details>
+
+<details>
+<summary><b>07 — Python Projects</b></summary>
+
+1. File Automation Tool
+2. Employee Management System
+3. Data Cleaning Application
+4. Web Scraping Tool
+5. Excel Automation
+6. PDF Management Utility
+7. API Data Collector
+8. Personal Finance Tracker
+9. Automated Reporting System
+10. Desktop Productivity Tool
+
+</details>
+
+<details>
+<summary><b>08 — Java Projects</b></summary>
+
+1. Banking Application
+2. Library Management System
+3. Student Management System
+4. Employee Payroll System
+5. Inventory Application
+6. Hospital Management System
+7. Spring Boot REST API
+8. E-Commerce Backend
+9. Authentication Service
+10. Online Examination System
+
+</details>
+
+<details>
+<summary><b>09 — Data Analytics Projects</b></summary>
+
+1. HR Payroll Analysis
+2. Employee Attrition Analysis
+3. Sales Performance Dashboard
+4. Customer Segmentation
+5. Retail Business Analytics
+6. Financial Analysis
+7. Inventory Analytics
+8. Marketing Campaign Analysis
+9. Global Population Analysis
+10. Business KPI Dashboard
+
+</details>
+
+<details>
+<summary><b>10 — AI & Machine Learning Projects</b></summary>
+
+1. Employee Performance Prediction
+2. Customer Churn Prediction
+3. House Price Prediction
+4. Fraud Detection
+5. Recommendation Engine
+6. Sentiment Analysis
+7. Resume Screening Assistant
+8. Document Question Answering
+9. AI Chatbot
+10. RAG-Based Knowledge Assistant
+11. Image Classification
+12. Predictive Analytics Platform
+
+</details>
+
+<details>
+<summary><b>11 — Cloud & DevOps Projects</b></summary>
+
+1. Deploy a React Application
+2. Deploy a MERN Application
+3. Dockerized REST API
+4. CI/CD Pipeline
+5. Kubernetes Deployment
+6. AWS Cloud Storage Application
+7. Azure Web Application
+8. Infrastructure as Code
+9. Monitoring Dashboard
+10. Automated Deployment Workflow
+
+</details>
+
+<details>
+<summary><b>12 — Advanced & Specialized Projects</b></summary>
+
+1. Three.js 3D Car Showroom
+2. Interactive 3D Real Estate Experience
+3. AI-Powered Developer Assistant
+4. Multi-Tenant SaaS Platform
+5. Real-Time Collaboration Tool
+6. Distributed Task Processing System
+7. Event-Driven Application
+8. Blockchain Explorer
+9. IoT Monitoring Dashboard
+10. Advanced Analytics Platform
+
+</details>
+
+## 🖼️ PROJECT THUMBNAIL DIRECTORY
+
+Create one original thumbnail per project and store it inside:
+
+`assets/thumbnails/`
+
+Suggested filenames:
+
+- `portfolio.png`
+- `lumora-bookstore.png`
+- `eagle-auth.png`
+- `real-estate.png`
+- `restaurant.png`
+- `ecommerce.png`
+- `admin-dashboard.png`
+- `employee-prediction.png`
+- `data-analytics.png`
+- `ai-assistant.png`
+- `3d-showroom.png`
+- `cloud-deployment.png`
+
+For every new project, add its thumbnail, title, description, technology stack, GitHub link, and live demo link.
+
+## 🧪 PROJECT DOCUMENTATION STANDARD
+
+Every substantial project should have:
+
+- Overview
+- Problem Statement
+- Objectives
+- Features
+- Technology Stack
+- Architecture
+- Folder Structure
 - Database Design
-- Admin Dashboard Development
-- Authentication Systems
-- E-Commerce Applications
-- Website Maintenance
-- UI Implementation
-- Website Optimization
-- API Integration
-- Technical Documentation
-- Data Analytics Dashboards
-- Python Automation
+- API Documentation
+- Installation
+- Environment Variables
+- Testing
+- Security
+- Screenshots
+- Deployment
+- Challenges and Solutions
+- Future Improvements
 
-IMPORTANT:
-Display these as services I can offer only when I activate them.
+---
 
-Do not falsely claim professional client experience.
+# 📖 ENGINEERING KNOWLEDGE CENTER
 
-Every service must have:
-- Description
-- Technologies
-- Availability status
-- Portfolio example
-- Contact link
+| Knowledge Area | Topics |
+|---|---|
+| Programming | Fundamentals, Syntax, OOP, Advanced Concepts |
+| DSA | Algorithms, Data Structures, Complexity |
+| DBMS | SQL, Normalization, Transactions |
+| OS | Processes, Threads, Memory |
+| Networks | TCP/IP, DNS, HTTP, Security |
+| Frontend | Browser, DOM, Rendering, Performance |
+| Backend | APIs, Authentication, Architecture |
+| System Design | Scalability, Caching, Distributed Systems |
+| AI/ML | Statistics, Models, Evaluation |
+| Cloud | AWS, Azure, GCP |
+| DevOps | Docker, Kubernetes, CI/CD |
+| Security | OWASP, Secure Coding, API Security |
 
-## 11. CERTIFICATIONS AND ACHIEVEMENTS
+## 📝 TECHNICAL NOTES & LEARNING MATERIAL
 
-Create editable sections for:
+- Programming Language Notes
+- HTML & CSS Notes
+- JavaScript Notes
+- React Notes
+- Node.js Notes
+- MongoDB Notes
+- MySQL Notes
+- Python Notes
+- Java Notes
+- DSA Practice
+- SQL Practice
+- System Design Notes
+- AI & ML Notes
+- Cloud & DevOps Notes
+- Interview Preparation
+- Technical Interview Questions
 
-- Technical Certifications
-- Online Courses
-- Hackathons
-- Coding Competitions
-- Open Source Contributions
-- Technical Achievements
-- Developer Milestones
+---
 
-Keep empty sections hidden until real information is added.
+# 🛠️ DEVELOPER SERVICES
 
-## 12. DEVELOPER BLOG AND TECHNICAL WRITING
+*These are potential service areas. Update availability and portfolio evidence before advertising them professionally.*
 
-Create a section for:
+| Service | Technologies |
+|---|---|
+| Frontend Development | HTML, CSS, JavaScript, React |
+| Full-Stack Development | MERN |
+| Backend Development | Node.js, Express |
+| API Development | REST, GraphQL |
+| Database Design | MySQL, MongoDB |
+| E-Commerce Applications | MERN, Payments |
+| Admin Dashboards | React, Charts |
+| Authentication Systems | JWT, Sessions |
+| Data Analytics | SQL, Excel, Power BI |
+| Python Automation | Python |
+| UI Implementation | HTML, CSS, React |
+| Website Optimization | Performance, SEO |
 
-- Technical Articles
-- Tutorials
-- Programming Explanations
-- Project Case Studies
-- Learning Experiences
-- Problem-Solving Notes
-- Development Guides
-- Engineering Research
+**Service availability:** Update this section as your practical skills and project portfolio grow.
 
-Allow future links to blogs and articles.
+---
 
-## 13. SOCIAL AND PROFESSIONAL CONNECTIONS
+# 📊 GITHUB STATISTICS
 
-Create editable links for:
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aswinimedisetti28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinimedisetti28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages"/>
+</p>
 
-- LinkedIn
-- GitHub
-- Portfolio
-- Email
-- Dev.to
-- Hashnode
-- LeetCode
-- HackerRank
-- CodeChef
-- GeeksforGeeks
-- Kaggle
-- Stack Overflow
-- YouTube
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aswinimedisetti28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-Only show links I configure.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswinimedisetti28&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution activity graph"/>
+</p>
 
-## 14. GITHUB ACHIEVEMENT AND COMMUNITY SECTION
+---
 
-Include:
-- Open Source Journey
-- Community Contributions
-- Repository Milestones
-- Pull Request Activity
-- Issue Contributions
-- Technical Collaboration
-- Developer Learning Milestones
+# 🏆 ACHIEVEMENTS & MILESTONES
 
-Use genuine information only.
+Update this section whenever you achieve something meaningful.
 
-## 15. ANIMATION AND VISUAL EFFECTS
+- [ ] First major full-stack project
+- [ ] First production deployment
+- [ ] First open-source contribution
+- [ ] First merged pull request
+- [ ] First technical article
+- [ ] First complete DSA roadmap
+- [ ] First cloud deployment
+- [ ] First AI/ML application
+- [ ] First collaborative project
+- [ ] First professional certification
 
-Use GitHub-compatible visual elements:
+## 🎓 CERTIFICATIONS
 
-- Animated SVG banners.
-- Carefully designed GIFs.
-- SVG typography.
-- Dot-matrix portrait.
-- Animated contribution-inspired graphics.
-- Subtle visual dividers.
-- Custom project illustrations.
-- Professional technology icons.
+*Add only certifications you have actually earned.*
 
-Do not use unsupported JavaScript or CSS in README.md.
+| Certification | Provider | Verification |
+|---|---|---|
+| Add certification | Add provider | Add credential URL |
 
-Never compromise GitHub rendering compatibility for visual effects.
+## 📝 TECHNICAL WRITING
 
-## 16. REPOSITORY FOLDER STRUCTURE
+- [Add your first technical article](#)
+- [Add your project case study](#)
+- [Add your programming notes](#)
+- [Add your engineering tutorial](#)
 
-Create an organized repository structure similar to:
+---
 
-github-profile/
-│
-├── README.md
-├── LICENSE
-│
-├── assets/
-│   ├── banners/
-│   ├── portrait/
-│   ├── thumbnails/
-│   ├── icons/
-│   ├── animations/
-│   ├── illustrations/
-│   └── diagrams/
-│
-├── projects/
-│   ├── mern/
-│   ├── frontend/
-│   ├── backend/
-│   ├── python/
-│   ├── java/
-│   ├── databases/
-│   ├── ai-ml/
-│   ├── data-analytics/
-│   ├── cloud-devops/
-│   └── threejs/
-│
-├── skills/
-│   ├── programming-languages.md
-│   ├── frontend.md
-│   ├── backend.md
-│   ├── databases.md
-│   ├── devops-cloud.md
-│   ├── ai-ml.md
-│   └── computer-science.md
-│
-├── documentation/
-│   ├── learning-roadmap.md
-│   ├── project-index.md
-│   ├── technical-notes.md
-│   └── developer-journey.md
-│
-└── templates/
-    ├── project-template.md
-    ├── repository-template.md
-    └── case-study-template.md
+# 🌐 CONNECT WITH ME
 
-Adapt this structure to GitHub's actual rendering capabilities.
+<p align="center">
+  <a href="https://github.com/Aswinimedisetti28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 17. MAINTAINABILITY
+<p align="center">
+  <a href="YOUR_LEETCODE_URL">LeetCode</a> ·
+  <a href="YOUR_HACKERRANK_URL">HackerRank</a> ·
+  <a href="YOUR_KAGGLE_URL">Kaggle</a> ·
+  <a href="YOUR_DEVTO_URL">Dev.to</a> ·
+  <a href="YOUR_YOUTUBE_URL">YouTube</a>
+</p>
 
-Build everything so I can continuously update it.
+---
 
-I should be able to:
+# 💡 DEVELOPER PHILOSOPHY
 
-- Add a new skill.
-- Change a skill's learning status.
-- Add a new project.
-- Add a thumbnail.
-- Update a repository URL.
-- Add a live demo.
-- Add certifications.
-- Add articles.
-- Update my services.
-- Add achievements.
-- Update my introduction.
-- Add new technologies.
-- Hide unfinished sections.
-- Expand the profile without redesigning everything.
+> "Don't just learn technologies. Understand them, experiment with them, build with them, and use them to solve real-world problems."
 
-Use reusable templates and clearly documented editing instructions.
+<p align="center">
+  <b>LEARN MORE. BUILD BETTER. THINK DEEPER. KEEP GROWING.</b>
+</p>
 
-## 18. FINAL QUALITY REQUIREMENTS
+<p align="center">
+  <i>A continuously evolving developer journey by Aswini Medisetti.</i>
+</p>
 
-The final result must satisfy these requirements:
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Always-Building-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Always-Improving-10B981?style=flat-square"/>
+</p>
 
-1. Premium professional GitHub identity.
-2. Original visual branding.
-3. Dot-matrix portrait based on my uploaded photo.
-4. Comprehensive technology taxonomy.
-5. Large expandable project showcase.
-6. Custom project thumbnail concepts.
-7. Real GitHub statistics.
-8. Editable skills and progress.
-9. Professional developer services.
-10. Technical knowledge center.
-11. Open-source contribution section.
-12. Professional contact section.
-13. Responsive image assets.
-14. GitHub-compatible SVGs.
-15. Clean Markdown.
-16. Maintainable repository structure.
-17. No fabricated achievements.
-18. No fake experience.
-19. No broken links.
-20. No unnecessary duplicated content.
-
-## 19. EXECUTION INSTRUCTIONS
-
-Do not just explain what should be created.
-
-Actually build the complete implementation.
-
-First, design the complete information architecture.
-
-Then create the repository files, README.md, SVG graphics, reusable templates, project thumbnail designs, and documentation.
-
-Generate original visual assets rather than relying on generic stock graphics.
-
-Use placeholders wherever I need to provide actual URLs or personal details.
-
-Do not stop after creating a basic README.
-
-Build the entire profile ecosystem.
-
-Before finishing, validate:
-- Markdown structure.
-- SVG validity.
-- Image paths.
-- GitHub rendering compatibility.
-- Duplicate sections.
-- Broken links.
-- Accessibility.
-- Mobile readability.
-- Content accuracy.
-
-The final result should feel like the GitHub identity of a highly ambitious software engineer building toward a complete, multidisciplinary engineering career.
-
-**FINAL DESIGN PHILOSOPHY:**
-
-"Not just a developer profile. A complete, continuously evolving engineering identity — where every skill, project, experiment, contribution, and learning milestone has its own place."
-
-Build it with exceptional attention to detail.
+<!-- ====================================================== -->
+<!-- CUSTOM ASSETS TO ADD LATER                              -->
+<!-- assets/banner.png                                      -->
+<!-- assets/portrait/dot-portrait.png                       -->
+<!-- assets/thumbnails/                                     -->
+<!-- ====================================================== -->
