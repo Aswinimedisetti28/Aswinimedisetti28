@@ -5,35 +5,39 @@
      Edit placeholders as you progress.
 ========================================================== -->
 
-<div align="center">
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+<h1>Hi, I'm Aswini Medisetti 👋</h1>
+
+<h2>Aspiring Full-Stack MERN Stack Developer</h2>
+
+<p>Curious Learner | Problem Solver | Project Builder | Tech Enthusiast</p>
+
+<p>
+<img src="https://img.shields.io/badge/MERN-Stack-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Exploring-8B5CF6?style=for-the-badge"/>
+</p>
 
 <a href="https://github.com/Aswinimedisetti28">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aswini+Medisetti;Aspiring+Full-Stack+Developer;MERN+Stack+Developer;Software+Engineering+Enthusiast;Always+Learning.+Always+Building." alt="Typing introduction"/>
+GitHub Profile
 </a>
 
-# ✨ Aswini Medisetti <img src="https://img.shields.io/badge/Developer-Profile-8B5CF6?style=flat-square"/>
+</td>
 
-### Aspiring Full-Stack MERN Stack Developer
+<td width="35%" align="center">
 
-**Curious Learner** &nbsp; | &nbsp; **Problem Solver** &nbsp; | &nbsp; **Project Builder** &nbsp; | &nbsp; **Tech Enthusiast**
+<img src="./assets/portrait/dot-matrix.png"
+     width="350"
+     alt="Aswini Dot Matrix Portrait"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aswinimedisetti28-181717?style=for-the-badge&logo=github)](https://github.com/Aswinimedisetti28)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aswinimedisetti28&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/Aswinimedisetti28)
+</td>
+</tr>
+</table>
 
-[Projects](#-featured-projects) ·
-[Skills](#-technology-universe--a-to-z) ·
-[Learning](#-learning-journey) ·
-[Statistics](#-github-statistics) ·
-[Services](#-developer-services) ·
-[Contact](#-connect-with-me)
-
----
-
-### ⚡ MY DEVELOPMENT DOMAINS
-
-`MERN STACK` · `FULL STACK` · `AI / ML` · `DATA ANALYTICS` · `CLOUD` · `DEVOPS`
-
-</div>
 
 <!-- =========================================================
                     ABOUT ME
