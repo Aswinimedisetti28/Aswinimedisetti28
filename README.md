@@ -1,102 +1,123 @@
-# 👩🏻‍💻 ASWINI MEDISETTI | SOFTWARE DEVELOPER
 
-<!-- ====================================================== -->
-<!-- PERSONAL BRANDING: Add your banner to assets/banner.png -->
-<!-- ====================================================== -->
+<!-- =========================================================
+     ASWINI MEDISETTI | GITHUB DEVELOPER PROFILE
+     GitHub username: Aswinimedisetti28
+     Edit placeholders as you progress.
+========================================================== -->
 
-<!-- <p align="center"><img src="assets/banner.png" width="100%" alt="Aswini Developer Banner"/></p> -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+MERN+Developer;Building+Real-World+Software+Projects;Exploring+AI%2C+Cloud+%26+Data+Engineering;Learning.+Building.+Improving.+Contributing." alt="Typing SVG"/>
-</p>
+<a href="https://github.com/Aswinimedisetti28">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aswini+Medisetti;Aspiring+Full-Stack+Developer;MERN+Stack+Developer;Software+Engineering+Enthusiast;Always+Learning.+Always+Building." alt="Typing introduction"/>
+</a>
 
-<p align="center">
-  <b>FULL-STACK DEVELOPER</b> · <b>PROBLEM SOLVER</b> · <b>CONTINUOUS LEARNER</b> · <b>PROJECT BUILDER</b>
-</p>
+# ✨ Aswini Medisetti <img src="https://img.shields.io/badge/Developer-Profile-8B5CF6?style=flat-square"/>
 
-<p align="center">
-  <a href="https://github.com/Aswinimedisetti28">
-    <img src="https://img.shields.io/badge/GitHub-Aswini%20Medisetti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approach-Learn%20%7C%20Build%20%7C%20Improve-8B5CF6?style=for-the-badge"/>
-</p>
+### Aspiring Full-Stack MERN Stack Developer
+
+**Curious Learner** &nbsp; | &nbsp; **Problem Solver** &nbsp; | &nbsp; **Project Builder** &nbsp; | &nbsp; **Tech Enthusiast**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aswinimedisetti28-181717?style=for-the-badge&logo=github)](https://github.com/Aswinimedisetti28)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aswinimedisetti28&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/Aswinimedisetti28)
+
+[Projects](#-featured-projects) ·
+[Skills](#-technology-universe--a-to-z) ·
+[Learning](#-learning-journey) ·
+[Statistics](#-github-statistics) ·
+[Services](#-developer-services) ·
+[Contact](#-connect-with-me)
 
 ---
 
-## ✨ ABOUT ME
+### ⚡ MY DEVELOPMENT DOMAINS
 
-Hello! I'm **Aswini Medisetti**, an aspiring Full-Stack Developer passionate about technology, software engineering, and building practical digital solutions.
+`MERN STACK` · `FULL STACK` · `AI / ML` · `DATA ANALYTICS` · `CLOUD` · `DEVOPS`
 
-I enjoy exploring how applications work, understanding systems from the ground up, experimenting with different programming languages, and turning ideas into functional projects.
+</div>
 
-My primary development direction is the **MERN Stack**, while continuously expanding my knowledge across programming, databases, AI, data analytics, cloud computing, and DevOps.
+<!-- =========================================================
+                    ABOUT ME
+========================================================== -->
 
-- 💻 Learning and developing full-stack applications.
-- 🚀 Exploring different programming languages and frameworks.
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I'm an aspiring software developer passionate about technology, programming, problem-solving, and building meaningful real-world applications.
+
+I continuously explore different areas of software engineering, develop practical projects, and expand my technical knowledge.
+
+- 🌱 Currently developing my Full-Stack development skills.
+- 💻 Building practical and real-world applications.
 - 🧠 Practicing Data Structures and Algorithms.
-- 🗄️ Understanding database architecture and management.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- ☁️ Learning cloud platforms and deployment.
-- 🛠️ Building practical projects to strengthen engineering skills.
-- 🌱 Continuously improving through experimentation and practice.
+- 🚀 Exploring modern software technologies.
+- 🔍 Interested in AI, Machine Learning and Data Analytics.
+- ☁️ Exploring Cloud Computing and DevOps.
+- 🎯 Working towards becoming a versatile software engineer.
+- 🤝 Interested in meaningful open-source contributions.
 
-## 🎯 MY DEVELOPER MISSION
+</td>
+<td width="35%" valign="top" align="center">
 
-> To continuously learn, build, experiment, and create meaningful software solutions while developing strong engineering fundamentals and contributing to the technology community.
+### 🎯 Developer Mission
 
-## 🔥 CURRENT FOCUS
+> Learn continuously.
+>
+> Build intelligently.
+>
+> Solve real problems.
+>
+> Create meaningful technology.
+>
+> Contribute to the developer community.
 
-| Domain | Current Direction |
+**One project at a time.**
+
+</td>
+</tr>
+</table>
+
+## ⚡ Current Focus
+
+| Domain | Current Goal |
 |---|---|
-| Full-Stack Development | MERN Stack |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, MySQL, SQL |
-| Programming | Java, Python, JavaScript |
-| Computer Science | DSA, DBMS, OS, Networks |
-| Data Analytics | Excel, SQL, Power BI, Python |
-| AI & ML | Fundamentals and practical projects |
-| Cloud | AWS, Azure |
-| DevOps | Git, GitHub, Docker, CI/CD |
+| MERN Stack | Build and advance full-stack applications |
+| DSA | Problem solving with Python and Java |
+| AI / ML | Learn and implement intelligent applications |
+| Data Analytics | Excel, SQL, Python and Power BI |
+| Cloud | Learn AWS, Azure and GCP |
+| DevOps | Linux, Git, Docker and CI/CD |
+| Software Engineering | Architecture and System Design |
+| Portfolio | Build a professional developer portfolio |
 
 ---
 
-# 🧰 TECH STACK & SKILLS — A TO Z
+<!-- =========================================================
+                TECHNOLOGY UNIVERSE
+========================================================== -->
 
-*This is my technical learning and exploration directory. A listed technology does not automatically mean professional-level proficiency.*
+# 🧬 Technology Universe – A to Z
 
-## 01. Programming Languages
+A continuously expanding collection of programming languages, frameworks, tools, platforms, and engineering disciplines.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,cs,go,rust,kotlin,swift,ruby,dart,bash,powershell" alt="Programming languages"/>
+### 01. Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,cs,go,rust,kotlin,swift,ruby,dart,bash,powershell&perline=8" />
 </p>
 
-- C and C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- C#
-- Go
-- Rust
-- Kotlin
-- Swift
-- Ruby
-- Dart
-- SQL
-- Bash and PowerShell
+**Additional:** SQL, R, Scala, Perl, Lua, Elixir, Haskell, Julia, MATLAB.
 
-## 02. Frontend Development
+### 02. Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,svelte,bootstrap,tailwind,sass,materialui,threejs" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,svelte,bootstrap,tailwind,sass,materialui,threejs&perline=7"/>
 </p>
 
-- HTML5 and Semantic HTML
-- CSS3, Flexbox and Grid
-- Responsive Web Design
+- HTML5
+- CSS3
 - JavaScript ES6+
 - TypeScript
 - React.js
@@ -108,43 +129,42 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Tailwind CSS
 - Material UI
 - Sass / SCSS
-- Three.js and WebGL
-- GSAP and Web Animations
-- Accessibility and SEO
-- Frontend Performance Optimization
-- State Management
-- Component Architecture
+- Responsive Web Design
+- Accessibility
+- Web Performance
+- Web Animations
+- Three.js
+- WebGL
+- GSAP
 
-## 03. Backend Development
+### 03. Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,dotnet&perline=7"/>
 </p>
 
 - Node.js
 - Express.js
 - NestJS
-- Python Backend Development
 - Django
 - Flask
 - FastAPI
-- Java Spring Framework
 - Spring Boot
-- PHP Laravel
+- Laravel
 - ASP.NET Core
-- REST API Development
+- REST APIs
 - GraphQL
 - WebSockets
-- Authentication and Authorization
-- Middleware
+- Authentication
+- Authorization
 - Microservices
-- Backend Security
-- API Documentation
+- API Security
+- Server-Side Rendering
 
-## 04. MERN Stack
+### 04. MERN Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4"/>
 </p>
 
 - MongoDB
@@ -152,19 +172,17 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - React.js
 - Node.js
 - Mongoose
-- JWT Authentication
+- JWT
 - REST API Integration
-- CRUD Operations
 - Full-Stack Architecture
+- State Management
+- Authentication Systems
 - Role-Based Access Control
-- File Uploads
-- Payment Gateway Integration
-- Production Deployment
 
-## 05. Databases
+### 05. Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase&perline=7"/>
 </p>
 
 - MySQL
@@ -174,20 +192,18 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Redis
 - Oracle Database
 - Microsoft SQL Server
-- Firebase / Firestore
+- Firebase
+- Supabase
 - Database Design
-- ER Diagrams
 - Normalization
 - Indexing
-- Joins and Subqueries
-- Stored Procedures
-- Views and Triggers
-- Transactions
 - Query Optimization
+- Transactions
 - Database Security
-- Backup and Recovery
+- Stored Procedures
+- Database Administration
 
-## 06. Data Structures & Algorithms
+### 06. Data Structures and Algorithms
 
 - Arrays and Strings
 - Linked Lists
@@ -205,43 +221,64 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Dynamic Programming
 - Sliding Window
 - Two Pointers
-- Divide and Conquer
-- Time and Space Complexity
-- Big O Notation
+- Bit Manipulation
+- Time Complexity
+- Space Complexity
+- Competitive Programming
 
-## 07. Computer Science Fundamentals
+### 07. Computer Science Fundamentals
 
 - Computer Architecture
 - Operating Systems
 - Process Management
-- Threads and Concurrency
 - Memory Management
-- File Systems
 - Computer Networks
 - TCP/IP
 - DNS
-- HTTP and HTTPS
-- OSI Model
+- HTTP / HTTPS
 - Database Management Systems
-- OOP
+- Object-Oriented Programming
 - Functional Programming
 - Compiler Fundamentals
 - Data Representation
-- Software Development Life Cycle
-- System Design
-- Design Patterns
-- SOLID Principles
-- Clean Code
+- File Systems
+- Concurrency
+- Multithreading
+- Distributed Systems
 
-## 08. Software Testing & QA
+### 08. Software Engineering
+
+- Software Development Life Cycle
+- Requirements Engineering
+- Agile Methodology
+- Scrum
+- Clean Code
+- SOLID Principles
+- Design Patterns
+- Object-Oriented Design
+- Functional Design
+- Software Architecture
+- Low-Level Design
+- High-Level Design
+- System Design
+- API Design
+- Domain-Driven Design
+- Refactoring
+- Code Reviews
+- Technical Documentation
+
+### 09. Testing and Quality Assurance
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium" alt="Testing tools"/>
+<img src="https://skillicons.dev/icons?i=jest,vitest,selenium,cypress,postman&perline=5"/>
 </p>
 
 - Unit Testing
 - Integration Testing
 - End-to-End Testing
+- Regression Testing
+- Performance Testing
+- Security Testing
 - Jest
 - Vitest
 - React Testing Library
@@ -249,57 +286,54 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Playwright
 - Selenium
 - Postman
-- API Testing
-- Regression Testing
-- Performance Testing
-- Test Automation
-- Debugging
+- Swagger / OpenAPI
 
-## 09. Version Control & Collaboration
+### 10. Version Control and Collaboration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version control"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=4"/>
 </p>
 
 - Git
 - GitHub
 - GitLab
 - Bitbucket
-- Branching and Merging
+- Branching
+- Merging
+- Rebasing
 - Pull Requests
 - Code Reviews
-- Merge Conflicts
-- GitHub Issues
-- Repository Management
-- Open Source Contributions
+- Issues
+- Releases
 - GitHub Actions
+- Open Source Collaboration
 
-## 10. DevOps & CI/CD
+### 11. DevOps and CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,nginx,linux,githubactions" alt="DevOps tools"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,ansible,nginx,githubactions&perline=8"/>
 </p>
 
-- Linux Administration
+- Linux
 - Docker
 - Kubernetes
 - Jenkins
-- GitHub Actions
-- GitLab CI/CD
 - Terraform
 - Ansible
 - Nginx
+- GitHub Actions
 - CI/CD Pipelines
-- Containerization
 - Infrastructure as Code
+- Containerization
+- Orchestration
 - Monitoring
 - Logging
 - Deployment Automation
 
-## 11. Cloud Computing
+### 12. Cloud Computing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare" alt="Cloud technologies"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase&perline=5"/>
 </p>
 
 - Amazon Web Services
@@ -307,77 +341,103 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Google Cloud Platform
 - Cloud Storage
 - Virtual Machines
+- Serverless Computing
 - Cloud Networking
 - IAM
-- Serverless Computing
 - Cloud Security
 - Load Balancing
 - CDN
 - Cloud Deployment
-- Infrastructure Management
 
-## 12. Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and ML technologies"/>
-</p>
+### 13. Artificial Intelligence
 
 - Artificial Intelligence
 - Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
 - Deep Learning
-- Neural Networks
+- Generative AI
 - Natural Language Processing
 - Computer Vision
-- Generative AI
 - Large Language Models
 - Prompt Engineering
 - AI Agents
 - Retrieval-Augmented Generation
 - Vector Databases
+- Model Evaluation
+- AI Application Development
+
+### 14. Machine Learning and Deep Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3"/>
+</p>
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
 - Model Training
 - Model Evaluation
-- Model Deployment
+- Neural Networks
 - TensorFlow
 - PyTorch
 - Scikit-learn
-- OpenCV
+- Model Deployment
 
-## 13. Data Science & Analytics
+### 15. Data Science and Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Data technologies"/>
+<img src="https://skillicons.dev/icons?i=python&perline=1"/>
 </p>
 
-- Statistics
-- Probability
-- Data Collection
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- Feature Engineering
+- Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
-- SQL Analytics
+- Statistics
+- Probability
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Data Visualization
 - Advanced Excel
-- Pivot Tables
-- Power Query
+- SQL Analytics
 - Power BI
 - Tableau
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
 
-## 14. Python Ecosystem
+### 16. Java Ecosystem
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&perline=5"/>
+</p>
+
+- Core Java
+- OOP
+- Collections Framework
+- Exception Handling
+- Multithreading
+- JDBC
+- Servlets
+- JSP
+- Hibernate
+- Spring Framework
+- Spring Boot
+- Maven
+- Gradle
+- JUnit
+
+### 17. Python Ecosystem
 
 - Core Python
-- Object-Oriented Python
 - Advanced Python
+- OOP
+- File Handling
+- Exception Handling
+- Decorators
+- Generators
 - NumPy
 - Pandas
 - Matplotlib
@@ -388,35 +448,12 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Flask
 - FastAPI
 - Automation
-- Web Scraping
-- Data Analysis
-- API Development
-- Testing and Scripting
+- Scripting
 
-## 15. Java Ecosystem
-
-- Core Java
-- OOP
-- Collections Framework
-- Exception Handling
-- Generics
-- Multithreading
-- Concurrency
-- JDBC
-- Servlets
-- JSP
-- Hibernate
-- Spring Framework
-- Spring Boot
-- Maven
-- Gradle
-- JUnit
-- Java Application Development
-
-## 16. Mobile Development
+### 18. Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,swift,flutter,react" alt="Mobile development"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,reactnative&perline=5"/>
 </p>
 
 - Android Development
@@ -425,66 +462,48 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Swift
 - SwiftUI
 - Flutter
-- Dart
 - React Native
-- Mobile UI Development
-- Mobile API Integration
-- App Testing
+- Mobile UI Design
+- Mobile APIs
+- Mobile Testing
 
-## 17. Cybersecurity
+### 19. Cybersecurity
 
 - Networking Fundamentals
-- Secure Coding
 - OWASP Top 10
+- Secure Coding
 - Authentication Security
 - Authorization
 - Encryption Fundamentals
-- Password Security
-- API Security
-- Web Application Security
+- Application Security
 - Vulnerability Assessment
 - Security Testing
-- Secure Deployment
+- HTTPS and TLS
+- Password Security
+- API Security
 
-## 18. Networking & Internet Technologies
-
-- TCP/IP
-- DNS
-- DHCP
-- HTTP
-- HTTPS
-- SSL/TLS
-- REST
-- WebSockets
-- Webhooks
-- Proxy Servers
-- Reverse Proxy
-- Load Balancing
-- CDN
-- Network Security
-
-## 19. UI/UX & Design
+### 20. UI/UX and Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design tools"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3"/>
 </p>
 
+- UI Design
+- UX Design
 - Figma
+- Adobe Photoshop
+- Adobe Illustrator
 - Wireframing
 - Prototyping
 - Design Systems
-- Typography
-- Color Theory
 - User Research
-- Responsive UI
 - Accessibility
-- Interface Design
-- User Experience Design
+- Responsive Design
 
-## 20. Developer Tools
+### 21. Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,webstorm,postman,mysql,git,github" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,webstorm,postman,stackoverflow&perline=6"/>
 </p>
 
 - Visual Studio Code
@@ -501,16 +520,47 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - pnpm
 - Yarn
 - Vite
+
+### 22. Build Tools and Package Management
+
+- Vite
 - Webpack
 - Babel
 - ESLint
 - Prettier
+- npm
+- Yarn
+- pnpm
+- Maven
+- Gradle
 
-## 21. Additional Engineering Domains
+### 23. Networking and Internet Technologies
+
+- TCP/IP
+- DNS
+- HTTP
+- HTTPS
+- SSL/TLS
+- REST
+- WebSockets
+- Load Balancing
+- Reverse Proxy
+- CDN
+- Network Security
+
+### 24. Blockchain and Web3
 
 - Blockchain Fundamentals
-- Web3
 - Smart Contracts
+- Ethereum
+- Solidity
+- Web3
+- Decentralized Applications
+- Wallet Integration
+- Distributed Ledgers
+
+### 25. Additional Engineering Domains
+
 - Game Development
 - Unity
 - Unreal Engine
@@ -519,440 +569,409 @@ My primary development direction is the **MERN Stack**, while continuously expan
 - Robotics
 - Distributed Systems
 - High-Performance Computing
-- Software Automation
+- Automation Engineering
+- Edge Computing
 
 ---
 
-# 🚀 PROJECT UNIVERSE
+<!-- =========================================================
+                     PROJECTS
+========================================================== -->
 
-A continuously expanding collection of practical software projects, experiments, learning implementations, and engineering solutions.
+# 🚀 Featured Projects
 
-**Project status legend:** Planned · Learning · In Progress · Completed · Deployed
+A growing collection of practical applications, experiments, and engineering projects.
 
-Only mark projects completed after they are actually built.
+> Project status and repository links must be updated with actual development progress.
 
-## ⭐ Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Category | Technologies | Repository / Demo |
-|---|---|---|---|
-| Lumora Bookstore | Full-Stack Bookstore | React, Node, MySQL | [Add Links](#project-links) |
-| Eagle Auth | Authentication System | React, Express, MySQL | [Add Links](#project-links) |
-| Real Estate Platform | Property Management | MERN, Maps | [Add Links](#project-links) |
-| Foodie Restaurant | Restaurant Platform | React, Node, MySQL | [Add Links](#project-links) |
-| AI Employee Predictor | Machine Learning | Python, Pandas, ML | [Add Links](#project-links) |
-| Admin Command Center | Admin Dashboard | React, APIs, Charts | [Add Links](#project-links) |
+### 📚 Lumora Bookstore
 
-## 📚 Project Categories
+**Full-Stack Online Bookstore**
 
-<details>
-<summary><b>01 — HTML & CSS Projects</b></summary>
+A digital bookstore application with book discovery, categories, shopping, and user authentication.
 
-1. Professional Developer Landing Page
-2. Responsive Portfolio Website
-3. Restaurant Website
-4. Real Estate Landing Page
-5. Fashion Store Website
-6. Education Website
-7. Travel Website
-8. Medical Clinic Website
-9. SaaS Landing Page
-10. Interactive Documentation Website
+`React` `Node.js` `Express` `MySQL`
 
-</details>
+- Book catalogue
+- Search and filtering
+- User authentication
+- Wishlist and cart
+- Admin management
+- Payment integration
 
-<details>
-<summary><b>02 — JavaScript Projects</b></summary>
+[Repository](#) · [Live Demo](#)
 
-1. Advanced Calculator
-2. Expense Tracker
-3. Weather Application
-4. Task Management Application
-5. Quiz Platform
-6. Currency Converter
-7. Form Validation System
-8. Interactive Dashboard
-9. Productivity Application
-10. Browser-Based Code Editor
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 🦅 Eagle Auth
 
-<details>
-<summary><b>03 — React Projects</b></summary>
+**Authentication Management System**
 
-1. Personal Portfolio
-2. E-Commerce Frontend
-3. Bookstore Interface
-4. Restaurant Ordering Interface
-5. Real Estate Property Explorer
-6. Admin Dashboard
-7. Learning Management System
-8. Job Portal
-9. Finance Dashboard
-10. Travel Booking Interface
-11. CRM Dashboard
-12. Inventory Management Interface
+A full-stack authentication application with an animated introduction and secure account management.
 
-</details>
+`React` `Node.js` `Express` `MySQL`
 
-<details>
-<summary><b>04 — MERN Full-Stack Projects</b></summary>
+- Signup and signin
+- Authentication
+- Database integration
+- Session management
+- Responsive UI
+- Security controls
 
-1. Full-Stack E-Commerce Platform
-2. Online Bookstore
-3. Real Estate Management System
-4. Multi-Vendor Marketplace
-5. Job Recruitment Platform
-6. Learning Management System
-7. Hospital Management System
-8. Hotel Booking System
-9. Restaurant Management System
-10. Social Networking Platform
-11. Project Management System
-12. CRM Application
-13. Inventory Management System
-14. Online Examination Platform
-15. Event Management Platform
-16. Subscription Management Platform
+[Repository](#) · [Live Demo](#)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>05 — Backend & API Projects</b></summary>
+### 🏡 Sage Rose Estates
 
-1. Authentication API
-2. Role-Based Authorization API
-3. E-Commerce API
-4. Payment Integration API
-5. File Management API
-6. Notification Service
-7. Chat Application Backend
-8. Booking API
-9. Inventory API
-10. API Rate Limiter
-11. URL Shortener
-12. Microservices Demo
+**Real Estate Platform**
 
-</details>
+A real estate application for property discovery, listings, and booking workflows.
 
-<details>
-<summary><b>06 — Database Projects</b></summary>
+`React` `Node.js` `Express` `Database`
 
-1. Library Database Management
-2. Hospital Database
-3. HR Payroll Database
-4. Banking Database
-5. E-Commerce Database
-6. School Management Database
-7. Restaurant Database
-8. Inventory Database
-9. Employee Management Database
-10. Advanced SQL Analytics
+- Property listings
+- Search and filters
+- Property details
+- Admin management
+- Authentication
+- Property enquiries
 
-</details>
+[Repository](#) · [Live Demo](#)
 
-<details>
-<summary><b>07 — Python Projects</b></summary>
+</td>
+<td width="50%" valign="top">
 
-1. File Automation Tool
-2. Employee Management System
-3. Data Cleaning Application
-4. Web Scraping Tool
-5. Excel Automation
-6. PDF Management Utility
-7. API Data Collector
-8. Personal Finance Tracker
-9. Automated Reporting System
-10. Desktop Productivity Tool
+### 🍽️ Foodie Restaurant
 
-</details>
+**Multi-Cuisine Restaurant Platform**
 
-<details>
-<summary><b>08 — Java Projects</b></summary>
+A restaurant application featuring international food categories and menu management.
 
-1. Banking Application
-2. Library Management System
-3. Student Management System
-4. Employee Payroll System
-5. Inventory Application
-6. Hospital Management System
-7. Spring Boot REST API
-8. E-Commerce Backend
-9. Authentication Service
-10. Online Examination System
+`React` `JavaScript` `Node.js` `MySQL`
 
-</details>
+- Food catalogue
+- Categories
+- Menu management
+- Cart
+- Order management
+- Responsive design
 
-<details>
-<summary><b>09 — Data Analytics Projects</b></summary>
+[Repository](#) · [Live Demo](#)
 
-1. HR Payroll Analysis
-2. Employee Attrition Analysis
-3. Sales Performance Dashboard
-4. Customer Segmentation
-5. Retail Business Analytics
-6. Financial Analysis
-7. Inventory Analytics
-8. Marketing Campaign Analysis
-9. Global Population Analysis
-10. Business KPI Dashboard
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🤖 AI Employee Predictor
 
-<details>
-<summary><b>10 — AI & Machine Learning Projects</b></summary>
+**Machine Learning Prediction System**
 
-1. Employee Performance Prediction
-2. Customer Churn Prediction
-3. House Price Prediction
-4. Fraud Detection
-5. Recommendation Engine
-6. Sentiment Analysis
-7. Resume Screening Assistant
-8. Document Question Answering
-9. AI Chatbot
-10. RAG-Based Knowledge Assistant
-11. Image Classification
-12. Predictive Analytics Platform
+An employee analytics and prediction project based on historical workforce data.
 
-</details>
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
-<details>
-<summary><b>11 — Cloud & DevOps Projects</b></summary>
+- Dataset analysis
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+- Prediction interface
 
-1. Deploy a React Application
-2. Deploy a MERN Application
-3. Dockerized REST API
-4. CI/CD Pipeline
-5. Kubernetes Deployment
-6. AWS Cloud Storage Application
-7. Azure Web Application
-8. Infrastructure as Code
-9. Monitoring Dashboard
-10. Automated Deployment Workflow
+[Repository](#) · [Live Demo](#)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>12 — Advanced & Specialized Projects</b></summary>
+### 📊 Admin Command Dashboard
 
-1. Three.js 3D Car Showroom
-2. Interactive 3D Real Estate Experience
-3. AI-Powered Developer Assistant
-4. Multi-Tenant SaaS Platform
-5. Real-Time Collaboration Tool
-6. Distributed Task Processing System
-7. Event-Driven Application
-8. Blockchain Explorer
-9. IoT Monitoring Dashboard
-10. Advanced Analytics Platform
+**Inventory and Analytics Dashboard**
 
-</details>
+A dashboard concept for centralized administration and business analytics.
 
-## 🖼️ PROJECT THUMBNAIL DIRECTORY
+`React` `Node.js` `SQL` `Charts`
 
-Create one original thumbnail per project and store it inside:
+- Analytics
+- Inventory
+- User management
+- Reports
+- Audit logs
+- Role management
 
-`assets/thumbnails/`
+[Repository](#) · [Live Demo](#)
 
-Suggested filenames:
+</td>
+</tr>
+</table>
 
-- `portfolio.png`
-- `lumora-bookstore.png`
-- `eagle-auth.png`
-- `real-estate.png`
-- `restaurant.png`
-- `ecommerce.png`
-- `admin-dashboard.png`
-- `employee-prediction.png`
-- `data-analytics.png`
-- `ai-assistant.png`
-- `3d-showroom.png`
-- `cloud-deployment.png`
+## 🗂️ More Project Categories
 
-For every new project, add its thumbnail, title, description, technology stack, GitHub link, and live demo link.
+| Category | Project Ideas |
+|---|---|
+| HTML | Semantic Website, Resume Website, Documentation Site |
+| HTML + CSS | Portfolio, Landing Page, Business Website |
+| HTML + CSS + JS | Calculator, Weather UI, Expense Tracker |
+| React | Task Manager, Dashboard, Job Portal |
+| Node.js | File API, Authentication API, Notification Service |
+| Express.js | REST API, E-commerce Backend, Booking API |
+| MongoDB | Inventory Database, Blog Backend, CRM |
+| MySQL | Banking Database, HR Payroll, Library Management |
+| Python | Automation, File Organizer, Data Processor |
+| Java | Banking Application, Student Management |
+| DSA | Algorithm Visualizer, Coding Problem Collection |
+| AI / ML | Prediction, Recommendation, Classification |
+| Data Analytics | Sales Dashboard, HR Dashboard, Financial Dashboard |
+| Cloud | File Storage, Cloud Deployment, Serverless API |
+| DevOps | CI/CD Pipeline, Docker Deployment, Monitoring |
+| Three.js | 3D Portfolio, Car Showroom, Interactive 3D Website |
+| Mobile | Expense App, Notes App, Productivity App |
+| Cybersecurity | Password Checker, Security Audit Lab |
+| Open Source | Documentation, Bug Fixes, Feature Contributions |
 
-## 🧪 PROJECT DOCUMENTATION STANDARD
+## 📦 Project Development Standards
 
-Every substantial project should have:
+Every major project should include:
 
-- Overview
 - Problem Statement
-- Objectives
-- Features
-- Technology Stack
-- Architecture
-- Folder Structure
-- Database Design
+- Requirements
+- System Architecture
+- UI/UX Design
+- Frontend
+- Backend
+- Database
+- Authentication
+- Authorization
 - API Documentation
-- Installation
-- Environment Variables
-- Testing
+- Validation
+- Error Handling
 - Security
-- Screenshots
+- Testing
 - Deployment
-- Challenges and Solutions
-- Future Improvements
+- Performance Optimization
+- Documentation
+- Future Enhancements
 
 ---
 
-# 📖 ENGINEERING KNOWLEDGE CENTER
+<!-- =========================================================
+                     SERVICES
+========================================================== -->
 
-| Knowledge Area | Topics |
+# 🛠️ Developer Services
+
+<sub>Future / Freelance Ready — activate each service when you are ready to offer it.</sub>
+
+<table>
+<tr>
+<td align="center" width="25%">💻<br/>Frontend Development</td>
+<td align="center" width="25%">⚛️<br/>React Development</td>
+<td align="center" width="25%">🚀<br/>MERN Stack Development</td>
+<td align="center" width="25%">🔌<br/>Backend & APIs</td>
+</tr>
+<tr>
+<td align="center">🛒<br/>E-Commerce</td>
+<td align="center">📊<br/>Admin Dashboards</td>
+<td align="center">🗄️<br/>Database Design</td>
+<td align="center">🎨<br/>UI Implementation</td>
+</tr>
+<tr>
+<td align="center">📈<br/>Data Analytics</td>
+<td align="center">🤖<br/>AI Applications</td>
+<td align="center">🔧<br/>Website Maintenance</td>
+<td align="center">☁️<br/>Cloud Deployment</td>
+</tr>
+</table>
+
+---
+
+<!-- =========================================================
+                     LEARNING
+========================================================== -->
+
+# 📚 Learning Journey
+
+| Learning Domain | Progress Status |
 |---|---|
-| Programming | Fundamentals, Syntax, OOP, Advanced Concepts |
-| DSA | Algorithms, Data Structures, Complexity |
-| DBMS | SQL, Normalization, Transactions |
-| OS | Processes, Threads, Memory |
-| Networks | TCP/IP, DNS, HTTP, Security |
-| Frontend | Browser, DOM, Rendering, Performance |
-| Backend | APIs, Authentication, Architecture |
-| System Design | Scalability, Caching, Distributed Systems |
-| AI/ML | Statistics, Models, Evaluation |
+| MERN Stack | Learning / Practicing |
+| HTML, CSS, JavaScript | Learning / Practicing |
+| React Development | Learning / Practicing |
+| Python | Learning / Practicing |
+| Java | Learning / Practicing |
+| DSA | Learning / Practicing |
+| SQL and Databases | Learning / Practicing |
+| Data Analytics | Learning / Practicing |
+| AI / ML | Learning / Practicing |
+| Cloud Computing | Learning / Practicing |
+| DevOps | Learning / Practicing |
+| System Design | Learning / Practicing |
+
+*Update the statuses based on actual progress. These are not proficiency claims.*
+
+## 🧠 Technical Knowledge Center
+
+| Subject | Topics |
+|---|---|
+| Programming | C, C++, Java, Python, JavaScript |
+| Web Development | HTML, CSS, JS, React, Node |
+| Computer Science | OS, DBMS, Networks, Architecture |
+| DSA | Algorithms and Problem Solving |
+| Databases | SQL, NoSQL, Design and Optimization |
+| Software Engineering | OOP, SOLID, Patterns, SDLC |
+| Backend | APIs, Security, Architecture |
+| Frontend | UI, UX, Accessibility, Performance |
+| Data Science | Statistics, Python, Analytics |
+| AI / ML | Models, LLMs, RAG, Agents |
 | Cloud | AWS, Azure, GCP |
-| DevOps | Docker, Kubernetes, CI/CD |
-| Security | OWASP, Secure Coding, API Security |
-
-## 📝 TECHNICAL NOTES & LEARNING MATERIAL
-
-- Programming Language Notes
-- HTML & CSS Notes
-- JavaScript Notes
-- React Notes
-- Node.js Notes
-- MongoDB Notes
-- MySQL Notes
-- Python Notes
-- Java Notes
-- DSA Practice
-- SQL Practice
-- System Design Notes
-- AI & ML Notes
-- Cloud & DevOps Notes
-- Interview Preparation
-- Technical Interview Questions
+| DevOps | Linux, Docker, Kubernetes, CI/CD |
+| Security | OWASP, Secure Coding, App Security |
 
 ---
 
-# 🛠️ DEVELOPER SERVICES
+<!-- =========================================================
+                    GITHUB STATISTICS
+========================================================== -->
 
-*These are potential service areas. Update availability and portfolio evidence before advertising them professionally.*
+# 📊 GitHub Statistics
 
-| Service | Technologies |
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aswinimedisetti28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinimedisetti28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Aswinimedisetti28&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aswinimedisetti28&theme=tokyonight" alt="Contribution Summary"/>
+
+</div>
+
+---
+
+<!-- =========================================================
+                   REPOSITORY EXPLORER
+========================================================== -->
+
+# 🗂️ Explore My Repositories
+
+| Repository Collection | Purpose |
 |---|---|
-| Frontend Development | HTML, CSS, JavaScript, React |
-| Full-Stack Development | MERN |
-| Backend Development | Node.js, Express |
-| API Development | REST, GraphQL |
-| Database Design | MySQL, MongoDB |
-| E-Commerce Applications | MERN, Payments |
-| Admin Dashboards | React, Charts |
-| Authentication Systems | JWT, Sessions |
-| Data Analytics | SQL, Excel, Power BI |
-| Python Automation | Python |
-| UI Implementation | HTML, CSS, React |
-| Website Optimization | Performance, SEO |
-
-**Service availability:** Update this section as your practical skills and project portfolio grow.
+| All Projects | Complete application portfolio |
+| DSA Practice | Algorithms and coding challenges |
+| Learning Notes | Technical study materials |
+| Roadmaps | Structured learning plans |
+| Technical Blogs | Tutorials and explanations |
+| Open Source | Community contributions |
+| Project Templates | Reusable project foundations |
+| Case Studies | Real-world technical solutions |
+| API Collection | Backend and REST API projects |
+| Experiments | Research and technology exploration |
 
 ---
 
-# 📊 GITHUB STATISTICS
+<!-- =========================================================
+                 CERTIFICATIONS AND ACHIEVEMENTS
+========================================================== -->
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aswinimedisetti28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinimedisetti28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages"/>
-</p>
+# 🏆 Achievements and Milestones
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswinimedisetti28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+- Building a practical software engineering portfolio.
+- Continuously learning new technologies.
+- Developing end-to-end applications.
+- Improving problem-solving skills.
+- Exploring multidisciplinary engineering.
+- Working towards meaningful open-source contributions.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswinimedisetti28&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution activity graph"/>
-</p>
+## 🎓 Certifications
 
----
+Add verified certifications here.
 
-# 🏆 ACHIEVEMENTS & MILESTONES
-
-Update this section whenever you achieve something meaningful.
-
-- [ ] First major full-stack project
-- [ ] First production deployment
-- [ ] First open-source contribution
-- [ ] First merged pull request
-- [ ] First technical article
-- [ ] First complete DSA roadmap
-- [ ] First cloud deployment
-- [ ] First AI/ML application
-- [ ] First collaborative project
-- [ ] First professional certification
-
-## 🎓 CERTIFICATIONS
-
-*Add only certifications you have actually earned.*
-
-| Certification | Provider | Verification |
+| Certification | Platform | Credential |
 |---|---|---|
-| Add certification | Add provider | Add credential URL |
+| Add certification | Add platform | Add credential URL |
+| Add certification | Add platform | Add credential URL |
 
-## 📝 TECHNICAL WRITING
+## 📝 Technical Writing and Blogs
 
-- [Add your first technical article](#)
-- [Add your project case study](#)
-- [Add your programming notes](#)
-- [Add your engineering tutorial](#)
+- Programming tutorials
+- Project documentation
+- Technical explanations
+- Software engineering notes
+- Learning experiences
+- Architecture case studies
 
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://github.com/Aswinimedisetti28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="YOUR_LEETCODE_URL">LeetCode</a> ·
-  <a href="YOUR_HACKERRANK_URL">HackerRank</a> ·
-  <a href="YOUR_KAGGLE_URL">Kaggle</a> ·
-  <a href="YOUR_DEVTO_URL">Dev.to</a> ·
-  <a href="YOUR_YOUTUBE_URL">YouTube</a>
-</p>
+[View Technical Articles](#)
 
 ---
 
-# 💡 DEVELOPER PHILOSOPHY
+<!-- =========================================================
+                    CONNECT
+========================================================== -->
 
-> "Don't just learn technologies. Understand them, experiment with them, build with them, and use them to solve real-world problems."
+# 🌐 Connect With Me
 
-<p align="center">
-  <b>LEARN MORE. BUILD BETTER. THINK DEEPER. KEEP GROWING.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>A continuously evolving developer journey by Aswini Medisetti.</i>
-</p>
+<a href="https://github.com/Aswinimedisetti28">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Always-Learning-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Always-Building-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Always-Improving-10B981?style=flat-square"/>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- ====================================================== -->
-<!-- CUSTOM ASSETS TO ADD LATER                              -->
-<!-- assets/banner.png                                      -->
-<!-- assets/portrait/dot-portrait.png                       -->
-<!-- assets/thumbnails/                                     -->
-<!-- ====================================================== -->
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_HACKERRANK_URL">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_KAGGLE_URL">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="YOUR_DEVTO_URL">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ A Continuous Learner. A Project Builder. An Engineer in Progress.
+
+**Learning today. Building tomorrow. Improving every day.**
+
+<img src="https://img.shields.io/badge/Keep-Learning-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keep-Building-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keep-Improving-EC4899?style=for-the-badge"/>
+
+⭐ Thank you for visiting my GitHub profile!
+
+</div>
