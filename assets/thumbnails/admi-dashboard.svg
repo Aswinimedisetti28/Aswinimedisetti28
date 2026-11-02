@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<defs><linearGradient id="f"><stop stop-color="#06152C"></stop><stop offset="1" stop-color="#23164D"></stop></linearGradient></defs>
+<rect width="600" height="320" rx="20" fill="url(#f)"></rect>
+<rect x="55" y="45" width="490" height="220" rx="12" fill="#0C1932" stroke="#00D9FF" stroke-width="3"></rect>
+<rect x="75" y="65" width="105" height="180" rx="6" fill="#182B4C"></rect>
+<g fill="#8A9DBF">
+<rect x="90" y="90" width="70" height="8" rx="4"></rect>
+<rect x="90" y="120" width="70" height="8" rx="4"></rect>
+<rect x="90" y="150" width="70" height="8" rx="4"></rect>
+<rect x="90" y="180" width="70" height="8" rx="4"></rect>
+</g>
+<rect x="200" y="70" width="140" height="72" rx="7" fill="#142B4C" stroke="#885DFF"></rect>
+<rect x="355" y="70" width="165" height="72" rx="7" fill="#142B4C" stroke="#00D9FF"></rect>
+<path d="M220 230V190L250 165L280 190L315 155" fill="none" stroke="#00D9FF" stroke-width="5"></path>
+<g fill="#B56EFF">
+<rect x="375" y="190" width="20" height="42"></rect>
+<rect x="410" y="170" width="20" height="62"></rect>
+<rect x="445" y="145" width="20" height="87"></rect>
+<rect x="480" y="175" width="20" height="57"></rect>
+</g>
+<text x="300" y="294" fill="white" text-anchor="middle" font-size="24" font-weight="bold">ADMIN COMMAND DASHBOARD</text>
+</svg>

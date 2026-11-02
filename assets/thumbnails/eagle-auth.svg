@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<defs><linearGradient id="b"><stop stop-color="#030B20"></stop><stop offset="1" stop-color="#192D68"></stop></linearGradient></defs>
+<rect width="600" height="320" rx="20" fill="url(#b)"></rect>
+<path d="M300 48L180 115L225 215L300 270L375 215L420 115Z" fill="#122957" stroke="#00D9FF" stroke-width="3"></path>
+<path d="M300 80L225 145L300 125L375 145Z" fill="#9DEBFF"></path>
+<path d="M300 125L225 145L255 210L300 165L345 210L375 145Z" fill="#4C83DB"></path>
+<path d="M225 145L150 105L205 185L260 220Z" fill="#00B9E8"></path>
+<path d="M375 145L450 105L395 185L340 220Z" fill="#9C60FF"></path>
+<circle cx="300" cy="150" r="20" fill="#07162D" stroke="#E6F8FF" stroke-width="3"></circle>
+<path d="M300 138L308 150L300 164L292 150Z" fill="#00D9FF"></path>
+<text x="300" y="285" text-anchor="middle" font-size="30" font-weight="bold" fill="white">EAGLE AUTH</text>
+<text x="300" y="306" text-anchor="middle" font-size="13" fill="#8AE9FF">SECURE AUTHENTICATION</text>
+</svg>

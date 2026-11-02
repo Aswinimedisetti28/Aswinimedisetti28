@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<defs><linearGradient id="c"><stop stop-color="#07182D"></stop><stop offset="1" stop-color="#17445B"></stop></linearGradient></defs>
+<rect width="600" height="320" rx="20" fill="url(#c)"></rect>
+<circle cx="480" cy="65" r="35" fill="#F8C979" opacity=".8"></circle>
+<path d="M70 200L300 55L530 200" fill="#294F75" stroke="#6CDFFF" stroke-width="7"></path>
+<rect x="110" y="195" width="380" height="85" fill="#213E64" stroke="#9EEBFF" stroke-width="3"></rect>
+<rect x="160" y="220" width="70" height="60" fill="#08172C" stroke="#00D9FF" stroke-width="3"></rect>
+<rect x="260" y="220" width="80" height="60" fill="#08172C" stroke="#00D9FF" stroke-width="3"></rect>
+<rect x="375" y="220" width="70" height="60" fill="#08172C" stroke="#00D9FF" stroke-width="3"></rect>
+<path d="M300 55V195" stroke="#00D9FF" stroke-width="3"></path>
+<text x="300" y="305" text-anchor="middle" fill="white" font-size="24" font-weight="bold">SAGE ROSE ESTATES</text>
+</svg>

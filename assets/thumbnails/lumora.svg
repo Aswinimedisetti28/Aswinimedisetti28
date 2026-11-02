@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<defs><linearGradient id="a"><stop stop-color="#07152C"></stop><stop offset="1" stop-color="#42216B"></stop></linearGradient></defs>
+<rect width="600" height="320" rx="20" fill="url(#a)"></rect>
+<path d="M60 240V100Q60 70 90 70H285V240Z" fill="#172D50" stroke="#00D9FF" stroke-width="3"></path>
+<path d="M315 240V70H510Q540 70 540 100V240Z" fill="#172D50" stroke="#00D9FF" stroke-width="3"></path>
+<g fill="#B17AFF">
+<rect x="85" y="95" width="35" height="115" rx="4"></rect>
+<rect x="125" y="85" width="42" height="125" rx="4" fill="#00BDEB"></rect>
+<rect x="172" y="105" width="34" height="105" rx="4" fill="#FF9B74"></rect>
+<rect x="211" y="90" width="48" height="120" rx="4" fill="#8866DC"></rect>
+</g>
+<g fill="#9ADFFF">
+<rect x="340" y="92" width="38" height="118" rx="4"></rect>
+<rect x="383" y="80" width="44" height="130" rx="4" fill="#C46DFF"></rect>
+<rect x="432" y="102" width="40" height="108" rx="4" fill="#E6A76C"></rect>
+<rect x="477" y="88" width="35" height="122" rx="4" fill="#39B7B5"></rect>
+</g>
+<path d="M40 242H560" stroke="#00D9FF" stroke-width="5"></path>
+<text x="300" y="280" fill="white" font-size="28" font-weight="bold" text-anchor="middle">LUMORA BOOKSTORE</text>
+<text x="300" y="303" fill="#7FE8FF" font-size="13" text-anchor="middle">YOUR DIGITAL LIBRARY</text>
+</svg>

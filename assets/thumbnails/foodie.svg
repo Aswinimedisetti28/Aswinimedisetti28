@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320">
+<defs><linearGradient id="d"><stop stop-color="#211026"></stop><stop offset="1" stop-color="#5B2843"></stop></linearGradient></defs>
+<rect width="600" height="320" rx="20" fill="url(#d)"></rect>
+<circle cx="300" cy="145" r="100" fill="#E5C6A3" stroke="#FFB35B" stroke-width="8"></circle>
+<circle cx="300" cy="145" r="78" fill="#54301F"></circle>
+<circle cx="270" cy="120" r="18" fill="#E5A53D"></circle>
+<circle cx="330" cy="120" r="20" fill="#72AF55"></circle>
+<circle cx="275" cy="170" r="22" fill="#CE5542"></circle>
+<circle cx="330" cy="170" r="25" fill="#F2C26C"></circle>
+<path d="M245 145Q300 75 355 145" fill="none" stroke="#E8E8A0" stroke-width="9"></path>
+<text x="300" y="280" text-anchor="middle" fill="white" font-size="29" font-weight="bold">FOODIE RESTAURANT</text>
+<text x="300" y="303" text-anchor="middle" fill="#FFC28C" font-size="14">EXPLORE GLOBAL CUISINES</text>
+</svg>
