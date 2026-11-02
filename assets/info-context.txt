@@ -1,0 +1,895 @@
+# MASTER PROMPT: BUILD AN ELITE, WORLD-CLASS GITHUB DEVELOPER PROFILE — A TO Z
+
+Act as a world-class GitHub profile architect, senior full-stack software engineer, open-source strategist, UI/UX designer, motion graphics designer, developer branding specialist, and technical content architect.
+
+Your mission is to build an exceptionally professional, visually distinctive, premium GitHub developer identity for a female aspiring Full-Stack MERN Stack Developer who is continuously learning, building projects, exploring technologies, and expanding her engineering capabilities.
+
+This must NOT look like a generic AI-generated developer profile, an ordinary student profile, or a copied GitHub README template.
+
+Create an original, recognizable, sophisticated developer identity.
+
+## 1. CORE IDENTITY
+
+Developer identity:
+- Role: Aspiring Full-Stack MERN Stack Developer
+- Career stage: Fresher / Continuously Learning
+- Primary focus: Full-Stack Web Development
+- Secondary interests: Software Engineering, Data Analytics, Artificial Intelligence, Machine Learning, Cloud Computing, DevOps, and Open Source.
+- Profile type: Female Software Developer
+- Personality: Professional, ambitious, creative, technical, disciplined, curious, and project-oriented.
+
+Use editable profile information.
+
+Do not invent:
+- Professional experience
+- Company employment
+- Certifications
+- Education details
+- GitHub statistics
+- Project completion claims
+- Client testimonials
+- Open-source contributions
+- Technical expertise that has not been demonstrated.
+
+Everything must remain truthful and editable.
+
+## 2. VISUAL DESIGN SYSTEM
+
+Create a premium visual identity.
+
+Design direction:
+- Sophisticated dark developer aesthetic.
+- Deep midnight background.
+- Rich navy and electric blue accents.
+- Subtle cyan highlights.
+- Soft violet secondary accents.
+- Professional typography.
+- Excellent spacing and alignment.
+- Clean technical layouts.
+- High-quality graphical elements.
+- Carefully designed visual hierarchy.
+
+Avoid:
+- Generic AI website aesthetics.
+- Excessive gradients.
+- Random glowing effects.
+- Unnecessary emojis.
+- Childish designs.
+- Excessive badges.
+- Cluttered layouts.
+- Fake statistics.
+- Repetitive skill icons.
+
+The design must communicate real software engineering professionalism.
+
+## 3. MY PERSONAL DOT-MATRIX PORTRAIT
+
+Use my uploaded photograph ONLY as a reference for creating a graphical portrait.
+
+IMPORTANT:
+Do not display my original photograph.
+Do not insert my photograph directly into the README.
+Do not create a conventional photographic profile image.
+
+Instead, transform my recognizable facial appearance into an artistic DOT-MATRIX / PARTICLE PORTRAIT.
+
+Requirements:
+- Thousands of tiny circular dots.
+- Carefully controlled dot density.
+- Facial features formed through particles.
+- Hair silhouette represented through dots.
+- Eyes, nose, lips, and face contour represented through dot patterns.
+- Elegant monochrome or blue-cyan particle palette.
+- Dark background.
+- Sophisticated digital-art appearance.
+- Recognizable facial structure.
+- No realistic photograph texture.
+- No cartoon transformation.
+- No unrelated person's face.
+
+Create a high-quality SVG or GIF asset if technically feasible.
+
+The portrait should feel like a digital identity made from thousands of individual particles.
+
+If GitHub SVG rendering limitations prevent an effect, create a compatible static SVG version.
+
+## 4. GITHUB PROFILE README ARCHITECTURE
+
+Create a complete, carefully structured GitHub profile README.md.
+
+Include the following sections.
+
+### A. Premium Introduction Banner
+- Original developer banner.
+- Developer identity.
+- Main development specialization.
+- Subtle animated or SVG graphical elements where supported.
+- Professional introduction.
+
+### B. About Me
+- Who I am.
+- What I am learning.
+- What I am building.
+- My development interests.
+- My engineering philosophy.
+- My current goals.
+- What I want to contribute to the developer community.
+
+### C. Developer Mission
+Create a meaningful developer mission statement.
+
+### D. Current Focus
+Display editable current learning and development priorities.
+
+### E. Complete Technical Skills Encyclopedia
+
+Build a comprehensive, expandable-in-source, categorized technical skill directory.
+
+Do not limit the profile to MERN alone.
+
+Include these technology categories:
+
+1. Programming Languages
+   - C
+   - C++
+   - Java
+   - Python
+   - JavaScript
+   - TypeScript
+   - PHP
+   - C#
+   - Go
+   - Rust
+   - Kotlin
+   - Swift
+   - Ruby
+   - Dart
+   - SQL
+   - Bash
+   - PowerShell
+
+2. Frontend Development
+   - HTML5
+   - CSS3
+   - JavaScript
+   - TypeScript
+   - React.js
+   - Next.js
+   - Angular
+   - Vue.js
+   - Svelte
+   - Bootstrap
+   - Tailwind CSS
+   - Material UI
+   - Sass
+   - Responsive Design
+   - Accessibility
+   - Web Performance
+   - Web Animations
+   - Three.js
+   - WebGL
+   - GSAP
+
+3. Backend Development
+   - Node.js
+   - Express.js
+   - NestJS
+   - Django
+   - Flask
+   - FastAPI
+   - Spring Boot
+   - Laravel
+   - ASP.NET Core
+   - REST APIs
+   - GraphQL
+   - WebSockets
+   - Authentication
+   - Authorization
+   - API Security
+   - Microservices
+
+4. MERN Stack
+   - MongoDB
+   - Express.js
+   - React.js
+   - Node.js
+   - Mongoose
+   - JWT
+   - REST API Integration
+   - Full-Stack Architecture
+
+5. Databases
+   - MySQL
+   - PostgreSQL
+   - MongoDB
+   - SQLite
+   - Redis
+   - Oracle Database
+   - SQL Server
+   - Database Design
+   - Database Normalization
+   - Indexing
+   - Query Optimization
+   - Transactions
+   - Database Security
+
+6. Data Structures and Algorithms
+   - Arrays
+   - Strings
+   - Linked Lists
+   - Stacks
+   - Queues
+   - Trees
+   - Graphs
+   - Hash Tables
+   - Heaps
+   - Searching
+   - Sorting
+   - Recursion
+   - Dynamic Programming
+   - Greedy Algorithms
+   - Backtracking
+   - Complexity Analysis
+
+7. Software Engineering
+   - Object-Oriented Programming
+   - Functional Programming
+   - Design Patterns
+   - SOLID Principles
+   - Clean Code
+   - Software Architecture
+   - System Design
+   - Low-Level Design
+   - High-Level Design
+   - Design Documentation
+   - Agile
+   - Scrum
+   - SDLC
+   - Testing Methodologies
+
+8. Testing and Quality Assurance
+   - Unit Testing
+   - Integration Testing
+   - End-to-End Testing
+   - Jest
+   - Vitest
+   - React Testing Library
+   - Cypress
+   - Playwright
+   - Postman
+   - API Testing
+   - Performance Testing
+   - Security Testing
+
+9. Version Control and Collaboration
+   - Git
+   - GitHub
+   - GitLab
+   - Bitbucket
+   - Branching
+   - Merging
+   - Pull Requests
+   - Code Reviews
+   - Issue Tracking
+   - Open Source Contributions
+   - GitHub Actions
+
+10. DevOps and CI/CD
+    - Linux
+    - Docker
+    - Kubernetes
+    - Jenkins
+    - GitHub Actions
+    - GitLab CI/CD
+    - Terraform
+    - Ansible
+    - Nginx
+    - Monitoring
+    - Logging
+    - Deployment Automation
+
+11. Cloud Computing
+    - AWS
+    - Microsoft Azure
+    - Google Cloud Platform
+    - Cloud Storage
+    - Virtual Machines
+    - Serverless Computing
+    - Cloud Networking
+    - IAM
+    - Cloud Security
+    - Cloud Deployment
+
+12. Artificial Intelligence
+    - Artificial Intelligence
+    - Machine Learning
+    - Deep Learning
+    - Natural Language Processing
+    - Computer Vision
+    - Generative AI
+    - Large Language Models
+    - Prompt Engineering
+    - AI Agents
+    - RAG
+    - Vector Databases
+    - Model Evaluation
+
+13. Data Science and Analytics
+    - Python
+    - NumPy
+    - Pandas
+    - Matplotlib
+    - Statistics
+    - Probability
+    - Data Cleaning
+    - Exploratory Data Analysis
+    - Feature Engineering
+    - Data Visualization
+    - Power BI
+    - Advanced Excel
+    - Tableau
+    - SQL Analytics
+
+14. Python Ecosystem
+    - Core Python
+    - OOP
+    - NumPy
+    - Pandas
+    - Matplotlib
+    - Scikit-learn
+    - TensorFlow
+    - PyTorch
+    - Django
+    - Flask
+    - FastAPI
+    - Automation
+    - Scripting
+
+15. Java Ecosystem
+    - Core Java
+    - OOP
+    - Collections Framework
+    - Multithreading
+    - JDBC
+    - Servlets
+    - JSP
+    - Hibernate
+    - Spring
+    - Spring Boot
+    - Maven
+    - Gradle
+    - JUnit
+
+16. Mobile Development
+    - Android
+    - Kotlin
+    - Java Android
+    - Swift
+    - SwiftUI
+    - Flutter
+    - React Native
+    - Mobile UI
+    - Mobile APIs
+
+17. Cybersecurity
+    - Networking Fundamentals
+    - HTTP/HTTPS
+    - OWASP Top 10
+    - Secure Coding
+    - Authentication Security
+    - Authorization
+    - Encryption Fundamentals
+    - Application Security
+    - Vulnerability Assessment
+    - Security Testing
+
+18. Networking and Internet Technologies
+    - TCP/IP
+    - DNS
+    - HTTP
+    - HTTPS
+    - SSL/TLS
+    - REST
+    - WebSockets
+    - Load Balancing
+    - Proxy Servers
+    - CDN
+
+19. UI/UX and Design Tools
+    - Figma
+    - Adobe Photoshop
+    - Adobe Illustrator
+    - Wireframing
+    - Prototyping
+    - Design Systems
+    - Accessibility
+    - Responsive UI
+    - User Research
+
+20. Developer Tools
+    - VS Code
+    - IntelliJ IDEA
+    - Eclipse
+    - WebStorm
+    - GitHub Desktop
+    - MySQL Workbench
+    - MongoDB Compass
+    - Postman
+    - Swagger
+    - Chrome DevTools
+    - npm
+    - pnpm
+    - Yarn
+    - Vite
+
+21. Build and Package Tools
+    - Webpack
+    - Vite
+    - Babel
+    - ESLint
+    - Prettier
+    - npm
+    - Maven
+    - Gradle
+
+22. Additional Engineering Domains
+    - Blockchain Fundamentals
+    - Web3
+    - Game Development
+    - Unity
+    - Unreal Engine
+    - IoT
+    - Embedded Systems
+    - Robotics
+    - Distributed Systems
+    - High-Performance Computing
+
+IMPORTANT SKILL DISPLAY RULE:
+
+Every skill must support editable learning status:
+
+- Learning
+- Practicing
+- Building Projects
+- Intermediate
+- Advanced
+- Experienced
+
+Do not mark every technology as mastered.
+
+Create a central skills configuration section so I can easily update technologies as I learn them.
+
+Avoid making the README excessively long. Use visually organized categories, compact icon groups, and separate detailed skill documentation when necessary.
+
+## 5. PROJECT SHOWCASE — LARGE PROJECT COLLECTION
+
+Create a professional project portfolio system.
+
+Include project categories:
+
+1. MERN Stack Projects
+2. React Projects
+3. JavaScript Projects
+4. HTML/CSS Projects
+5. Node.js Projects
+6. Express.js Projects
+7. MongoDB Projects
+8. MySQL Projects
+9. Python Projects
+10. Java Projects
+11. Full-Stack Applications
+12. REST API Projects
+13. Authentication Projects
+14. E-Commerce Projects
+15. Admin Dashboard Projects
+16. Data Analytics Projects
+17. Machine Learning Projects
+18. AI/LLM Projects
+19. Cloud Projects
+20. DevOps Projects
+21. Three.js / 3D Projects
+22. Automation Projects
+23. Open Source Projects
+24. Real-World Case Studies
+25. Mini Projects
+26. Major Projects
+27. Capstone Projects
+
+Create a reusable project card design.
+
+Each project must support:
+
+- Project title
+- Custom-generated thumbnail
+- Project description
+- Problem statement
+- Technologies used
+- Key features
+- Architecture
+- Database
+- GitHub repository URL
+- Live demo URL
+- Screenshots
+- Documentation
+- Project status
+- Development timeline
+- Future improvements
+
+### AUTOMATIC THUMBNAIL CREATION
+
+Design original project thumbnails for every project.
+
+Do not use random stock images.
+
+Create unique visual concepts based on each project's functionality.
+
+Examples:
+- E-commerce: premium online shopping interface.
+- Bookstore: professional digital library visual.
+- Authentication: security-focused login architecture.
+- Dashboard: advanced analytics interface.
+- AI application: neural network visualization.
+- Machine learning: data prediction visualization.
+- Cloud application: cloud architecture diagram.
+- Three.js: sophisticated 3D visual.
+- API project: endpoint and architecture illustration.
+- Database project: structured data visualization.
+
+Create a reusable thumbnail design system.
+
+All project cards should initially support placeholder repository links.
+
+Never invent real project URLs.
+
+I will add my actual GitHub and deployment links later.
+
+Do not falsely present planned projects as completed projects.
+
+## 6. PROJECT DETAIL TEMPLATE
+
+Create a reusable README template for every project.
+
+Structure:
+
+- Project Overview
+- Problem Statement
+- Objectives
+- Technologies
+- Features
+- Architecture
+- Folder Structure
+- Installation
+- Environment Configuration
+- Database Schema
+- API Documentation
+- Screenshots
+- Testing
+- Security
+- Deployment
+- Performance
+- Challenges
+- Solutions
+- Future Enhancements
+- Contribution Guidelines
+- License
+
+## 7. GITHUB ANALYTICS AND STATISTICS
+
+Create dedicated sections for:
+
+- GitHub Profile Statistics
+- Contribution Graph
+- Contribution Activity
+- Repository Statistics
+- Most Used Languages
+- Streak Statistics
+- Achievement Highlights
+- Open Source Activity
+
+Use legitimate GitHub APIs or established GitHub statistics services where appropriate.
+
+Do not generate fake numbers.
+
+Make the sections resilient if external services are unavailable.
+
+## 8. GITHUB REPOSITORY COLLECTION
+
+Create a structured collection for:
+
+- Featured Repositories
+- Pinned Projects
+- Latest Projects
+- Learning Repositories
+- Practice Repositories
+- Data Structures and Algorithms
+- Technical Notes
+- Coding Challenges
+- Open Source Contributions
+- Experimental Projects
+
+All links must be editable.
+
+## 9. TECHNICAL KNOWLEDGE CENTER
+
+Create a section that organizes my continuous learning journey.
+
+Categories:
+
+- Programming Fundamentals
+- Computer Science Fundamentals
+- Operating Systems
+- Computer Networks
+- DBMS
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Software Engineering
+- System Design
+- Web Development
+- Backend Engineering
+- Frontend Engineering
+- Database Engineering
+- Cloud Computing
+- DevOps
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Cybersecurity
+
+Each category must support links to:
+- Notes
+- Source code
+- Practice problems
+- Projects
+- Documentation
+- Learning progress
+
+## 10. SERVICES AND DEVELOPER CAPABILITIES
+
+Create a dedicated section for future professional services.
+
+Include editable service categories:
+
+- Frontend Web Development
+- Responsive Website Development
+- React Application Development
+- MERN Stack Development
+- Backend API Development
+- Database Design
+- Admin Dashboard Development
+- Authentication Systems
+- E-Commerce Applications
+- Website Maintenance
+- UI Implementation
+- Website Optimization
+- API Integration
+- Technical Documentation
+- Data Analytics Dashboards
+- Python Automation
+
+IMPORTANT:
+Display these as services I can offer only when I activate them.
+
+Do not falsely claim professional client experience.
+
+Every service must have:
+- Description
+- Technologies
+- Availability status
+- Portfolio example
+- Contact link
+
+## 11. CERTIFICATIONS AND ACHIEVEMENTS
+
+Create editable sections for:
+
+- Technical Certifications
+- Online Courses
+- Hackathons
+- Coding Competitions
+- Open Source Contributions
+- Technical Achievements
+- Developer Milestones
+
+Keep empty sections hidden until real information is added.
+
+## 12. DEVELOPER BLOG AND TECHNICAL WRITING
+
+Create a section for:
+
+- Technical Articles
+- Tutorials
+- Programming Explanations
+- Project Case Studies
+- Learning Experiences
+- Problem-Solving Notes
+- Development Guides
+- Engineering Research
+
+Allow future links to blogs and articles.
+
+## 13. SOCIAL AND PROFESSIONAL CONNECTIONS
+
+Create editable links for:
+
+- LinkedIn
+- GitHub
+- Portfolio
+- Email
+- Dev.to
+- Hashnode
+- LeetCode
+- HackerRank
+- CodeChef
+- GeeksforGeeks
+- Kaggle
+- Stack Overflow
+- YouTube
+
+Only show links I configure.
+
+## 14. GITHUB ACHIEVEMENT AND COMMUNITY SECTION
+
+Include:
+- Open Source Journey
+- Community Contributions
+- Repository Milestones
+- Pull Request Activity
+- Issue Contributions
+- Technical Collaboration
+- Developer Learning Milestones
+
+Use genuine information only.
+
+## 15. ANIMATION AND VISUAL EFFECTS
+
+Use GitHub-compatible visual elements:
+
+- Animated SVG banners.
+- Carefully designed GIFs.
+- SVG typography.
+- Dot-matrix portrait.
+- Animated contribution-inspired graphics.
+- Subtle visual dividers.
+- Custom project illustrations.
+- Professional technology icons.
+
+Do not use unsupported JavaScript or CSS in README.md.
+
+Never compromise GitHub rendering compatibility for visual effects.
+
+## 16. REPOSITORY FOLDER STRUCTURE
+
+Create an organized repository structure similar to:
+
+github-profile/
+│
+├── README.md
+├── LICENSE
+│
+├── assets/
+│   ├── banners/
+│   ├── portrait/
+│   ├── thumbnails/
+│   ├── icons/
+│   ├── animations/
+│   ├── illustrations/
+│   └── diagrams/
+│
+├── projects/
+│   ├── mern/
+│   ├── frontend/
+│   ├── backend/
+│   ├── python/
+│   ├── java/
+│   ├── databases/
+│   ├── ai-ml/
+│   ├── data-analytics/
+│   ├── cloud-devops/
+│   └── threejs/
+│
+├── skills/
+│   ├── programming-languages.md
+│   ├── frontend.md
+│   ├── backend.md
+│   ├── databases.md
+│   ├── devops-cloud.md
+│   ├── ai-ml.md
+│   └── computer-science.md
+│
+├── documentation/
+│   ├── learning-roadmap.md
+│   ├── project-index.md
+│   ├── technical-notes.md
+│   └── developer-journey.md
+│
+└── templates/
+    ├── project-template.md
+    ├── repository-template.md
+    └── case-study-template.md
+
+Adapt this structure to GitHub's actual rendering capabilities.
+
+## 17. MAINTAINABILITY
+
+Build everything so I can continuously update it.
+
+I should be able to:
+
+- Add a new skill.
+- Change a skill's learning status.
+- Add a new project.
+- Add a thumbnail.
+- Update a repository URL.
+- Add a live demo.
+- Add certifications.
+- Add articles.
+- Update my services.
+- Add achievements.
+- Update my introduction.
+- Add new technologies.
+- Hide unfinished sections.
+- Expand the profile without redesigning everything.
+
+Use reusable templates and clearly documented editing instructions.
+
+## 18. FINAL QUALITY REQUIREMENTS
+
+The final result must satisfy these requirements:
+
+1. Premium professional GitHub identity.
+2. Original visual branding.
+3. Dot-matrix portrait based on my uploaded photo.
+4. Comprehensive technology taxonomy.
+5. Large expandable project showcase.
+6. Custom project thumbnail concepts.
+7. Real GitHub statistics.
+8. Editable skills and progress.
+9. Professional developer services.
+10. Technical knowledge center.
+11. Open-source contribution section.
+12. Professional contact section.
+13. Responsive image assets.
+14. GitHub-compatible SVGs.
+15. Clean Markdown.
+16. Maintainable repository structure.
+17. No fabricated achievements.
+18. No fake experience.
+19. No broken links.
+20. No unnecessary duplicated content.
+
+## 19. EXECUTION INSTRUCTIONS
+
+Do not just explain what should be created.
+
+Actually build the complete implementation.
+
+First, design the complete information architecture.
+
+Then create the repository files, README.md, SVG graphics, reusable templates, project thumbnail designs, and documentation.
+
+Generate original visual assets rather than relying on generic stock graphics.
+
+Use placeholders wherever I need to provide actual URLs or personal details.
+
+Do not stop after creating a basic README.
+
+Build the entire profile ecosystem.
+
+Before finishing, validate:
+- Markdown structure.
+- SVG validity.
+- Image paths.
+- GitHub rendering compatibility.
+- Duplicate sections.
+- Broken links.
+- Accessibility.
+- Mobile readability.
+- Content accuracy.
+
+The final result should feel like the GitHub identity of a highly ambitious software engineer building toward a complete, multidisciplinary engineering career.
+
+**FINAL DESIGN PHILOSOPHY:**
+
+"Not just a developer profile. A complete, continuously evolving engineering identity — where every skill, project, experiment, contribution, and learning milestone has its own place."
+
+Build it with exceptional attention to detail.
